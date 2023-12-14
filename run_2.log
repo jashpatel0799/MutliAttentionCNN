@@ -1,0 +1,3116 @@
+epoch:0
+idx:0,loss:5.3652
+idx:50,loss:5.3161
+idx:100,loss:5.3360
+idx:150,loss:5.0934
+idx:200,loss:4.5704
+idx:250,loss:4.3322
+idx:300,loss:3.2716
+idx:350,loss:2.9641
+idx:400,loss:3.2477
+idx:450,loss:2.7718
+idx:500,loss:2.3339
+idx:550,loss:1.9807
+train,train_loss:3.8425517066050383,train_accuracy:0.18494167550371157
+idx:0,loss:2.0875
+idx:50,loss:2.4126
+idx:100,loss:3.4785
+val,val_loss:2.2417810414288497,val_accuracy:0.42832909245122985
+epoch:1
+idx:0,loss:2.1843
+idx:50,loss:1.2960
+idx:100,loss:1.5343
+idx:150,loss:2.1957
+idx:200,loss:2.3271
+idx:250,loss:1.3531
+idx:300,loss:1.4975
+idx:350,loss:1.2948
+idx:400,loss:1.5678
+idx:450,loss:1.2678
+idx:500,loss:2.4769
+idx:550,loss:1.4673
+train,train_loss:1.7152404279527018,train_accuracy:0.5468716861081654
+idx:0,loss:1.4752
+idx:50,loss:1.4833
+idx:100,loss:1.1591
+val,val_loss:1.5136229307264895,val_accuracy:0.5911789652247668
+epoch:2
+idx:0,loss:0.9836
+idx:50,loss:1.6605
+idx:100,loss:1.3017
+idx:150,loss:0.7813
+idx:200,loss:0.7513
+idx:250,loss:1.0628
+idx:300,loss:1.2360
+idx:350,loss:1.0687
+idx:400,loss:1.1094
+idx:450,loss:1.4473
+idx:500,loss:0.7344
+idx:550,loss:0.9535
+train,train_loss:1.1674515257700016,train_accuracy:0.6775185577942736
+idx:0,loss:1.5476
+idx:50,loss:1.3057
+idx:100,loss:1.6985
+val,val_loss:1.317001172215552,val_accuracy:0.6289228159457168
+epoch:3
+idx:0,loss:1.5450
+idx:50,loss:0.4139
+idx:100,loss:0.3120
+idx:150,loss:1.0289
+idx:200,loss:1.7385
+idx:250,loss:0.6286
+idx:300,loss:1.2562
+idx:350,loss:1.1538
+idx:400,loss:0.6524
+idx:450,loss:0.5867
+idx:500,loss:0.9821
+idx:550,loss:0.7320
+train,train_loss:0.9399878565664008,train_accuracy:0.7346765641569459
+idx:0,loss:1.5842
+idx:50,loss:0.7771
+idx:100,loss:0.7544
+val,val_loss:1.098247948127824,val_accuracy:0.6972010178117048
+epoch:4
+idx:0,loss:0.3928
+idx:50,loss:0.8009
+idx:100,loss:0.3960
+idx:150,loss:0.4019
+idx:200,loss:0.5082
+idx:250,loss:0.3060
+idx:300,loss:1.7570
+idx:350,loss:0.7422
+idx:400,loss:0.4395
+idx:450,loss:0.5150
+idx:500,loss:0.9140
+idx:550,loss:0.6427
+train,train_loss:0.7199093382995008,train_accuracy:0.7893955461293743
+idx:0,loss:1.8418
+idx:50,loss:1.1462
+idx:100,loss:1.2309
+val,val_loss:1.1840861716584579,val_accuracy:0.6895674300254453
+epoch:5
+idx:0,loss:0.3058
+idx:50,loss:0.9249
+idx:100,loss:0.6193
+idx:150,loss:0.8448
+idx:200,loss:0.1673
+idx:250,loss:0.9161
+idx:300,loss:0.7095
+idx:350,loss:0.7530
+idx:400,loss:1.4333
+idx:450,loss:0.4870
+idx:500,loss:0.6375
+idx:550,loss:0.7889
+train,train_loss:0.6132040207100622,train_accuracy:0.8253446447507954
+idx:0,loss:0.7329
+idx:50,loss:1.5426
+idx:100,loss:0.7476
+val,val_loss:1.1710236384187247,val_accuracy:0.7031382527565734
+epoch:6
+idx:0,loss:0.8483
+idx:50,loss:0.4661
+idx:100,loss:0.4617
+idx:150,loss:0.4618
+idx:200,loss:0.3936
+idx:250,loss:0.4738
+idx:300,loss:0.7143
+idx:350,loss:1.0310
+idx:400,loss:0.4962
+idx:450,loss:0.9164
+idx:500,loss:0.6477
+idx:550,loss:0.4332
+train,train_loss:0.522927343921136,train_accuracy:0.8492046659597031
+idx:0,loss:1.2689
+idx:50,loss:1.5644
+idx:100,loss:3.0441
+val,val_loss:1.1912002241289295,val_accuracy:0.693384223918575
+epoch:7
+idx:0,loss:0.9404
+idx:50,loss:0.3897
+idx:100,loss:0.2883
+idx:150,loss:0.8022
+idx:200,loss:0.4446
+idx:250,loss:0.6927
+idx:300,loss:0.3543
+idx:350,loss:0.6057
+idx:400,loss:0.5543
+idx:450,loss:0.2074
+idx:500,loss:0.6950
+idx:550,loss:0.3791
+train,train_loss:0.4630346548854042,train_accuracy:0.8612937433722163
+idx:0,loss:1.1917
+idx:50,loss:0.6163
+idx:100,loss:0.7520
+val,val_loss:1.1720699799826015,val_accuracy:0.7128922815945716
+epoch:8
+idx:0,loss:0.6125
+idx:50,loss:0.8672
+idx:100,loss:0.6802
+idx:150,loss:0.3090
+idx:200,loss:0.1857
+idx:250,loss:0.4282
+idx:300,loss:0.1278
+idx:350,loss:0.5032
+idx:400,loss:0.6250
+idx:450,loss:0.1158
+idx:500,loss:0.4587
+idx:550,loss:0.1247
+train,train_loss:0.4039838714098905,train_accuracy:0.8763520678685047
+idx:0,loss:0.8854
+idx:50,loss:1.7534
+idx:100,loss:0.5477
+val,val_loss:1.0909254286136176,val_accuracy:0.7366412213740458
+epoch:9
+idx:0,loss:0.0479
+idx:50,loss:0.2631
+idx:100,loss:0.6620
+idx:150,loss:0.2564
+idx:200,loss:0.4008
+idx:250,loss:0.0111
+idx:300,loss:0.6313
+idx:350,loss:0.5580
+idx:400,loss:0.4201
+idx:450,loss:0.1410
+idx:500,loss:0.5625
+idx:550,loss:0.6310
+train,train_loss:0.3512979679298982,train_accuracy:0.8944856839872747
+idx:0,loss:1.3258
+idx:50,loss:1.0173
+idx:100,loss:0.5682
+val,val_loss:1.0950547393420837,val_accuracy:0.7340966921119593
+epoch:10
+idx:0,loss:0.3369
+idx:50,loss:0.3636
+idx:100,loss:0.0686
+idx:150,loss:0.2980
+idx:200,loss:0.3234
+idx:250,loss:0.5537
+idx:300,loss:0.3295
+idx:350,loss:0.1495
+idx:400,loss:0.1574
+idx:450,loss:0.0671
+idx:500,loss:0.5249
+idx:550,loss:0.4769
+train,train_loss:0.2997063687268518,train_accuracy:0.9079533404029693
+idx:0,loss:0.9897
+idx:50,loss:0.6985
+idx:100,loss:1.6738
+val,val_loss:1.2144302063797776,val_accuracy:0.7205258693808312
+epoch:11
+idx:0,loss:0.5200
+idx:50,loss:0.4999
+idx:100,loss:0.0790
+idx:150,loss:0.4533
+idx:200,loss:0.1408
+idx:250,loss:0.1659
+idx:300,loss:0.2692
+idx:350,loss:0.1998
+idx:400,loss:0.5771
+idx:450,loss:0.2209
+idx:500,loss:0.3623
+idx:550,loss:0.1058
+train,train_loss:0.28585204855909857,train_accuracy:0.9149522799575822
+idx:0,loss:1.3760
+idx:50,loss:1.0744
+idx:100,loss:1.0443
+val,val_loss:1.0620288570990433,val_accuracy:0.7459711620016963
+epoch:12
+idx:0,loss:0.0480
+idx:50,loss:0.0122
+idx:100,loss:0.2514
+idx:150,loss:0.2939
+idx:200,loss:0.2733
+idx:250,loss:0.0656
+idx:300,loss:0.0347
+idx:350,loss:0.0887
+idx:400,loss:0.6245
+idx:450,loss:0.0518
+idx:500,loss:0.1220
+idx:550,loss:0.2396
+train,train_loss:0.2402671885100525,train_accuracy:0.9303287380699894
+idx:0,loss:1.6624
+idx:50,loss:0.8582
+idx:100,loss:1.4161
+val,val_loss:1.3787176276783686,val_accuracy:0.7120441051738762
+epoch:13
+idx:0,loss:0.0471
+idx:50,loss:0.7638
+idx:100,loss:0.3217
+idx:150,loss:0.0025
+idx:200,loss:0.0894
+idx:250,loss:0.1568
+idx:300,loss:0.4347
+idx:350,loss:0.2111
+idx:400,loss:0.3155
+idx:450,loss:0.0237
+idx:500,loss:0.1293
+idx:550,loss:0.3751
+train,train_loss:0.22679562007621626,train_accuracy:0.9319194061505832
+idx:0,loss:1.7141
+idx:50,loss:1.7231
+idx:100,loss:0.9304
+val,val_loss:1.2986515802457124,val_accuracy:0.7107718405428329
+epoch:14
+idx:0,loss:0.0925
+idx:50,loss:0.2405
+idx:100,loss:0.0671
+idx:150,loss:0.0835
+idx:200,loss:0.1976
+idx:250,loss:0.0761
+idx:300,loss:0.3556
+idx:350,loss:0.3036
+idx:400,loss:0.0213
+idx:450,loss:0.2819
+idx:500,loss:0.2127
+idx:550,loss:1.0220
+train,train_loss:0.23674480095796752,train_accuracy:0.9259809119830329
+idx:0,loss:1.5502
+idx:50,loss:0.5873
+idx:100,loss:1.9260
+val,val_loss:1.330276277822417,val_accuracy:0.6899915182357931
+epoch:15
+idx:0,loss:0.1665
+idx:50,loss:0.3760
+idx:100,loss:0.1318
+idx:150,loss:0.3744
+idx:200,loss:0.0141
+idx:250,loss:0.0501
+idx:300,loss:0.1834
+idx:350,loss:0.0634
+idx:400,loss:0.2558
+idx:450,loss:0.1541
+idx:500,loss:0.2037
+idx:550,loss:0.1610
+train,train_loss:0.17148529593492423,train_accuracy:0.9464475079533404
+idx:0,loss:1.0574
+idx:50,loss:0.5540
+idx:100,loss:1.2431
+val,val_loss:1.3607213746856999,val_accuracy:0.7027141645462256
+epoch:16
+idx:0,loss:0.2831
+idx:50,loss:0.0603
+idx:100,loss:0.0313
+idx:150,loss:0.5817
+idx:200,loss:0.1169
+idx:250,loss:0.0370
+idx:300,loss:0.0498
+idx:350,loss:0.0183
+idx:400,loss:0.1064
+idx:450,loss:0.5144
+idx:500,loss:0.0142
+idx:550,loss:0.1173
+train,train_loss:0.18164848841251252,train_accuracy:0.9440084835630965
+idx:0,loss:1.7762
+idx:50,loss:1.8043
+idx:100,loss:1.0809
+val,val_loss:1.5393141083217956,val_accuracy:0.7268871925360475
+epoch:17
+idx:0,loss:0.1152
+idx:50,loss:0.0467
+idx:100,loss:0.0741
+idx:150,loss:0.2798
+idx:200,loss:0.1044
+idx:250,loss:0.2513
+idx:300,loss:0.4067
+idx:350,loss:0.0652
+idx:400,loss:0.0834
+idx:450,loss:0.7868
+idx:500,loss:0.0078
+idx:550,loss:0.0565
+train,train_loss:0.15725285174331027,train_accuracy:0.9528101802757158
+idx:0,loss:1.6432
+idx:50,loss:1.6261
+idx:100,loss:2.7716
+val,val_loss:1.2845922663707185,val_accuracy:0.7222222222222222
+epoch:18
+idx:0,loss:0.1991
+idx:50,loss:0.0334
+idx:100,loss:0.3708
+idx:150,loss:0.2345
+idx:200,loss:0.2550
+idx:250,loss:0.1937
+idx:300,loss:0.1290
+idx:350,loss:0.0124
+idx:400,loss:0.1165
+idx:450,loss:0.0005
+idx:500,loss:0.0374
+idx:550,loss:0.0012
+train,train_loss:0.14765651956226744,train_accuracy:0.9577942735949099
+idx:0,loss:1.8754
+idx:50,loss:0.5848
+idx:100,loss:1.9461
+val,val_loss:1.297340765192702,val_accuracy:0.72264631043257
+epoch:19
+idx:0,loss:0.1777
+idx:50,loss:0.0236
+idx:100,loss:0.1370
+idx:150,loss:0.0251
+idx:200,loss:0.8709
+idx:250,loss:0.0183
+idx:300,loss:0.0037
+idx:350,loss:0.0162
+idx:400,loss:0.1408
+idx:450,loss:0.5488
+idx:500,loss:0.2030
+idx:550,loss:0.0018
+train,train_loss:0.1438129927732161,train_accuracy:0.9563096500530223
+idx:0,loss:0.7524
+idx:50,loss:2.4030
+idx:100,loss:0.6139
+val,val_loss:1.337537822464632,val_accuracy:0.7247667514843087
+epoch:20
+idx:0,loss:0.2008
+idx:50,loss:0.0287
+idx:100,loss:0.0238
+idx:150,loss:0.0032
+idx:200,loss:0.0006
+idx:250,loss:1.3226
+idx:300,loss:0.1079
+idx:350,loss:0.1820
+idx:400,loss:0.0031
+idx:450,loss:0.1742
+idx:500,loss:0.0063
+idx:550,loss:0.0036
+train,train_loss:0.13655596207871726,train_accuracy:0.9591728525980912
+idx:0,loss:0.8822
+idx:50,loss:0.6673
+idx:100,loss:0.7271
+val,val_loss:1.4140658254508633,val_accuracy:0.734520780322307
+epoch:21
+idx:0,loss:0.2608
+idx:50,loss:0.2698
+idx:100,loss:0.0301
+idx:150,loss:0.0359
+idx:200,loss:0.0085
+idx:250,loss:0.1703
+idx:300,loss:0.0242
+idx:350,loss:0.0088
+idx:400,loss:0.0603
+idx:450,loss:0.0334
+idx:500,loss:0.0125
+idx:550,loss:0.0741
+train,train_loss:0.11498369835992936,train_accuracy:0.9643690349946977
+idx:0,loss:1.6847
+idx:50,loss:0.0227
+idx:100,loss:0.6399
+val,val_loss:1.3221707377784155,val_accuracy:0.7497879558948262
+epoch:22
+idx:0,loss:0.0966
+idx:50,loss:0.0141
+idx:100,loss:0.0316
+idx:150,loss:0.0732
+idx:200,loss:0.0281
+idx:250,loss:0.1416
+idx:300,loss:0.2496
+idx:350,loss:0.0401
+idx:400,loss:0.0279
+idx:450,loss:0.0559
+idx:500,loss:0.0922
+idx:550,loss:0.0536
+train,train_loss:0.12959658306686925,train_accuracy:0.9602332979851538
+idx:0,loss:1.2810
+idx:50,loss:0.6898
+idx:100,loss:1.3217
+val,val_loss:1.3563286486912418,val_accuracy:0.7273112807463953
+epoch:23
+idx:0,loss:0.0850
+idx:50,loss:0.0128
+idx:100,loss:0.0597
+idx:150,loss:0.1683
+idx:200,loss:0.0033
+idx:250,loss:0.0865
+idx:300,loss:0.1409
+idx:350,loss:0.0618
+idx:400,loss:0.1192
+idx:450,loss:0.0094
+idx:500,loss:0.0058
+idx:550,loss:0.0490
+train,train_loss:0.1035264296467777,train_accuracy:0.9710498409331919
+idx:0,loss:1.0016
+idx:50,loss:2.2920
+idx:100,loss:0.7533
+val,val_loss:1.4811990696534112,val_accuracy:0.7162849872773537
+epoch:24
+idx:0,loss:0.0090
+idx:50,loss:0.2730
+idx:100,loss:0.0268
+idx:150,loss:0.1106
+idx:200,loss:0.0208
+idx:250,loss:0.1596
+idx:300,loss:0.2194
+idx:350,loss:0.3129
+idx:400,loss:0.0538
+idx:450,loss:0.0045
+idx:500,loss:0.3694
+idx:550,loss:0.0085
+train,train_loss:0.10360071288408924,train_accuracy:0.9672322375397667
+idx:0,loss:0.6922
+idx:50,loss:0.6031
+idx:100,loss:2.6006
+val,val_loss:1.561458774590613,val_accuracy:0.7205258693808312
+epoch:25
+idx:0,loss:0.2653
+idx:50,loss:0.0147
+idx:100,loss:0.3052
+idx:150,loss:0.0928
+idx:200,loss:0.3990
+idx:250,loss:0.0370
+idx:300,loss:0.0948
+idx:350,loss:0.0183
+idx:400,loss:0.1012
+idx:450,loss:0.0391
+idx:500,loss:0.0054
+idx:550,loss:0.1399
+train,train_loss:0.0953110107994674,train_accuracy:0.9730646871686108
+idx:0,loss:1.3022
+idx:50,loss:0.7248
+idx:100,loss:4.8441
+val,val_loss:1.3501370647871815,val_accuracy:0.7370653095843935
+epoch:26
+idx:0,loss:0.0004
+idx:50,loss:0.0506
+idx:100,loss:0.0791
+idx:150,loss:0.2339
+idx:200,loss:0.0456
+idx:250,loss:0.0097
+idx:300,loss:0.0139
+idx:350,loss:0.0039
+idx:400,loss:0.0055
+idx:450,loss:0.1257
+idx:500,loss:0.0847
+idx:550,loss:0.0143
+train,train_loss:0.08923084231066888,train_accuracy:0.9737009544008484
+idx:0,loss:0.8348
+idx:50,loss:0.2521
+idx:100,loss:1.1374
+val,val_loss:1.4054541267152574,val_accuracy:0.7366412213740458
+epoch:27
+idx:0,loss:0.5290
+idx:50,loss:0.2603
+idx:100,loss:0.0822
+idx:150,loss:0.0014
+idx:200,loss:0.0747
+idx:250,loss:0.0185
+idx:300,loss:0.3580
+idx:350,loss:0.0096
+idx:400,loss:0.1288
+idx:450,loss:0.0275
+idx:500,loss:0.1956
+idx:550,loss:0.0515
+train,train_loss:0.10404685430347839,train_accuracy:0.9699893955461294
+idx:0,loss:1.8753
+idx:50,loss:0.2910
+idx:100,loss:1.1890
+val,val_loss:1.39972448147632,val_accuracy:0.7357930449533503
+epoch:28
+idx:0,loss:0.0190
+idx:50,loss:0.0745
+idx:100,loss:0.0265
+idx:150,loss:0.0185
+idx:200,loss:0.1134
+idx:250,loss:0.0547
+idx:300,loss:0.1515
+idx:350,loss:0.0068
+idx:400,loss:0.0067
+idx:450,loss:0.0319
+idx:500,loss:0.1219
+idx:550,loss:0.0804
+train,train_loss:0.08715250093514057,train_accuracy:0.9729586426299046
+idx:0,loss:2.5429
+idx:50,loss:0.9472
+idx:100,loss:0.3608
+val,val_loss:1.5229116167646606,val_accuracy:0.7430025445292621
+epoch:29
+idx:0,loss:0.0218
+idx:50,loss:0.0018
+idx:100,loss:0.0080
+idx:150,loss:0.0387
+idx:200,loss:0.3077
+idx:250,loss:0.0286
+idx:300,loss:0.0332
+idx:350,loss:0.1114
+idx:400,loss:0.5106
+idx:450,loss:0.0121
+idx:500,loss:0.0037
+idx:550,loss:0.0071
+train,train_loss:0.08224656808888539,train_accuracy:0.975609756097561
+idx:0,loss:0.5981
+idx:50,loss:2.1759
+idx:100,loss:1.1080
+val,val_loss:1.4612027952963538,val_accuracy:0.7506361323155216
+getpos 0
+getpos 1
+getpos 2
+getpos 3
+getpos 4
+getpos 5
+getpos 6
+getpos 7
+getpos 8
+getpos 9
+getpos 10
+getpos 11
+getpos 12
+getpos 13
+getpos 14
+getpos 15
+getpos 16
+getpos 17
+getpos 18
+getpos 19
+getpos 20
+getpos 21
+getpos 22
+getpos 23
+getpos 24
+getpos 25
+getpos 26
+getpos 27
+getpos 28
+getpos 29
+getpos 30
+getpos 31
+getpos 32
+getpos 33
+getpos 34
+getpos 35
+getpos 36
+getpos 37
+getpos 38
+getpos 39
+getpos 40
+getpos 41
+getpos 42
+getpos 43
+getpos 44
+getpos 45
+getpos 46
+getpos 47
+getpos 48
+getpos 49
+getpos 50
+getpos 51
+getpos 52
+getpos 53
+getpos 54
+getpos 55
+getpos 56
+getpos 57
+getpos 58
+getpos 59
+getpos 60
+getpos 61
+getpos 62
+getpos 63
+getpos 64
+getpos 65
+getpos 66
+getpos 67
+getpos 68
+getpos 69
+getpos 70
+getpos 71
+getpos 72
+getpos 73
+getpos 74
+getpos 75
+getpos 76
+getpos 77
+getpos 78
+getpos 79
+getpos 80
+getpos 81
+getpos 82
+getpos 83
+getpos 84
+getpos 85
+getpos 86
+getpos 87
+getpos 88
+getpos 89
+getpos 90
+getpos 91
+getpos 92
+getpos 93
+getpos 94
+getpos 95
+getpos 96
+getpos 97
+getpos 98
+getpos 99
+getpos 100
+getpos 101
+getpos 102
+getpos 103
+getpos 104
+getpos 105
+getpos 106
+getpos 107
+getpos 108
+getpos 109
+getpos 110
+getpos 111
+getpos 112
+getpos 113
+getpos 114
+getpos 115
+getpos 116
+getpos 117
+getpos 118
+getpos 119
+getpos 120
+getpos 121
+getpos 122
+getpos 123
+getpos 124
+getpos 125
+getpos 126
+getpos 127
+getpos 128
+getpos 129
+getpos 130
+getpos 131
+getpos 132
+getpos 133
+getpos 134
+getpos 135
+getpos 136
+getpos 137
+getpos 138
+getpos 139
+getpos 140
+getpos 141
+getpos 142
+getpos 143
+getpos 144
+getpos 145
+getpos 146
+getpos 147
+getpos 148
+getpos 149
+getpos 150
+getpos 151
+getpos 152
+getpos 153
+getpos 154
+getpos 155
+getpos 156
+getpos 157
+getpos 158
+getpos 159
+getpos 160
+getpos 161
+getpos 162
+getpos 163
+getpos 164
+getpos 165
+getpos 166
+getpos 167
+getpos 168
+getpos 169
+getpos 170
+getpos 171
+getpos 172
+getpos 173
+getpos 174
+getpos 175
+getpos 176
+getpos 177
+getpos 178
+getpos 179
+getpos 180
+getpos 181
+getpos 182
+getpos 183
+getpos 184
+getpos 185
+getpos 186
+getpos 187
+getpos 188
+getpos 189
+getpos 190
+getpos 191
+getpos 192
+getpos 193
+getpos 194
+getpos 195
+getpos 196
+getpos 197
+getpos 198
+getpos 199
+getpos 200
+getpos 201
+getpos 202
+getpos 203
+getpos 204
+getpos 205
+getpos 206
+getpos 207
+getpos 208
+getpos 209
+getpos 210
+getpos 211
+getpos 212
+getpos 213
+getpos 214
+getpos 215
+getpos 216
+getpos 217
+getpos 218
+getpos 219
+getpos 220
+getpos 221
+getpos 222
+getpos 223
+getpos 224
+getpos 225
+getpos 226
+getpos 227
+getpos 228
+getpos 229
+getpos 230
+getpos 231
+getpos 232
+getpos 233
+getpos 234
+getpos 235
+getpos 236
+getpos 237
+getpos 238
+getpos 239
+getpos 240
+getpos 241
+getpos 242
+getpos 243
+getpos 244
+getpos 245
+getpos 246
+getpos 247
+getpos 248
+getpos 249
+getpos 250
+getpos 251
+getpos 252
+getpos 253
+getpos 254
+getpos 255
+getpos 256
+getpos 257
+getpos 258
+getpos 259
+getpos 260
+getpos 261
+getpos 262
+getpos 263
+getpos 264
+getpos 265
+getpos 266
+getpos 267
+getpos 268
+getpos 269
+getpos 270
+getpos 271
+getpos 272
+getpos 273
+getpos 274
+getpos 275
+getpos 276
+getpos 277
+getpos 278
+getpos 279
+getpos 280
+getpos 281
+getpos 282
+getpos 283
+getpos 284
+getpos 285
+getpos 286
+getpos 287
+getpos 288
+getpos 289
+getpos 290
+getpos 291
+getpos 292
+getpos 293
+getpos 294
+getpos 295
+getpos 296
+getpos 297
+getpos 298
+getpos 299
+getpos 300
+getpos 301
+getpos 302
+getpos 303
+getpos 304
+getpos 305
+getpos 306
+getpos 307
+getpos 308
+getpos 309
+getpos 310
+getpos 311
+getpos 312
+getpos 313
+getpos 314
+getpos 315
+getpos 316
+getpos 317
+getpos 318
+getpos 319
+getpos 320
+getpos 321
+getpos 322
+getpos 323
+getpos 324
+getpos 325
+getpos 326
+getpos 327
+getpos 328
+getpos 329
+getpos 330
+getpos 331
+getpos 332
+getpos 333
+getpos 334
+getpos 335
+getpos 336
+getpos 337
+getpos 338
+getpos 339
+getpos 340
+getpos 341
+getpos 342
+getpos 343
+getpos 344
+getpos 345
+getpos 346
+getpos 347
+getpos 348
+getpos 349
+getpos 350
+getpos 351
+getpos 352
+getpos 353
+getpos 354
+getpos 355
+getpos 356
+getpos 357
+getpos 358
+getpos 359
+getpos 360
+getpos 361
+getpos 362
+getpos 363
+getpos 364
+getpos 365
+getpos 366
+getpos 367
+getpos 368
+getpos 369
+getpos 370
+getpos 371
+getpos 372
+getpos 373
+getpos 374
+getpos 375
+getpos 376
+getpos 377
+getpos 378
+getpos 379
+getpos 380
+getpos 381
+getpos 382
+getpos 383
+getpos 384
+getpos 385
+getpos 386
+getpos 387
+getpos 388
+getpos 389
+getpos 390
+getpos 391
+getpos 392
+getpos 393
+getpos 394
+getpos 395
+getpos 396
+getpos 397
+getpos 398
+getpos 399
+getpos 400
+getpos 401
+getpos 402
+getpos 403
+getpos 404
+getpos 405
+getpos 406
+getpos 407
+getpos 408
+getpos 409
+getpos 410
+getpos 411
+getpos 412
+getpos 413
+getpos 414
+getpos 415
+getpos 416
+getpos 417
+getpos 418
+getpos 419
+getpos 420
+getpos 421
+getpos 422
+getpos 423
+getpos 424
+getpos 425
+getpos 426
+getpos 427
+getpos 428
+getpos 429
+getpos 430
+getpos 431
+getpos 432
+getpos 433
+getpos 434
+getpos 435
+getpos 436
+getpos 437
+getpos 438
+getpos 439
+getpos 440
+getpos 441
+getpos 442
+getpos 443
+getpos 444
+getpos 445
+getpos 446
+getpos 447
+getpos 448
+getpos 449
+getpos 450
+getpos 451
+getpos 452
+getpos 453
+getpos 454
+getpos 455
+getpos 456
+getpos 457
+getpos 458
+getpos 459
+getpos 460
+getpos 461
+getpos 462
+getpos 463
+getpos 464
+getpos 465
+getpos 466
+getpos 467
+getpos 468
+getpos 469
+getpos 470
+getpos 471
+getpos 472
+getpos 473
+getpos 474
+getpos 475
+getpos 476
+getpos 477
+getpos 478
+getpos 479
+getpos 480
+getpos 481
+getpos 482
+getpos 483
+getpos 484
+getpos 485
+getpos 486
+getpos 487
+getpos 488
+getpos 489
+getpos 490
+getpos 491
+getpos 492
+getpos 493
+getpos 494
+getpos 495
+getpos 496
+getpos 497
+getpos 498
+getpos 499
+getpos 500
+getpos 501
+getpos 502
+getpos 503
+getpos 504
+getpos 505
+getpos 506
+getpos 507
+getpos 508
+getpos 509
+getpos 510
+getpos 511
+getpos 512
+getpos 513
+getpos 514
+getpos 515
+getpos 516
+getpos 517
+getpos 518
+getpos 519
+getpos 520
+getpos 521
+getpos 522
+getpos 523
+getpos 524
+getpos 525
+getpos 526
+getpos 527
+getpos 528
+getpos 529
+getpos 530
+getpos 531
+getpos 532
+getpos 533
+getpos 534
+getpos 535
+getpos 536
+getpos 537
+getpos 538
+getpos 539
+getpos 540
+getpos 541
+getpos 542
+getpos 543
+getpos 544
+getpos 545
+getpos 546
+getpos 547
+getpos 548
+getpos 549
+getpos 550
+getpos 551
+getpos 552
+getpos 553
+getpos 554
+getpos 555
+getpos 556
+getpos 557
+getpos 558
+getpos 559
+getpos 560
+getpos 561
+getpos 562
+getpos 563
+getpos 564
+getpos 565
+getpos 566
+getpos 567
+getpos 568
+getpos 569
+getpos 570
+getpos 571
+getpos 572
+getpos 573
+getpos 574
+getpos 575
+getpos 576
+getpos 577
+getpos 578
+getpos 579
+getpos 580
+getpos 581
+getpos 582
+getpos 583
+getpos 584
+getpos 585
+getpos 586
+getpos 587
+getpos 588
+getpos 589
+122 168 103 119
+epoch:0,idx:0,lr:0.003000,loss:1.04547715
+epoch:0,idx:10,lr:0.003000,loss:0.00001572
+epoch:0,idx:20,lr:0.003000,loss:0.00000035
+epoch:0,idx:30,lr:0.003000,loss:0.00000009
+epoch:0,idx:40,lr:0.003000,loss:0.00000005
+epoch:0,idx:50,lr:0.003000,loss:0.00000004
+epoch:0,idx:60,lr:0.003000,loss:0.00000004
+epoch:0,idx:70,lr:0.003000,loss:0.00000004
+epoch:0,idx:80,lr:0.003000,loss:0.00000004
+epoch:0,idx:90,lr:0.003000,loss:0.00000003
+epoch:0,idx:100,lr:0.003000,loss:0.00000004
+epoch:0,idx:110,lr:0.003000,loss:0.00000003
+epoch:0,idx:120,lr:0.003000,loss:0.00000003
+epoch:0,idx:130,lr:0.003000,loss:0.00000004
+epoch:0,idx:140,lr:0.003000,loss:0.00000004
+epoch:0,idx:150,lr:0.003000,loss:0.00000003
+epoch:0,idx:160,lr:0.003000,loss:0.00000004
+epoch:0,idx:170,lr:0.003000,loss:0.00000004
+epoch:0,idx:180,lr:0.003000,loss:0.00000003
+epoch:0,idx:190,lr:0.003000,loss:0.00000003
+epoch:0,idx:200,lr:0.003000,loss:0.00000004
+epoch:0,idx:210,lr:0.003000,loss:0.00000004
+epoch:0,idx:220,lr:0.003000,loss:0.00000003
+epoch:0,idx:230,lr:0.003000,loss:0.00000003
+epoch:0,idx:240,lr:0.003000,loss:0.00000003
+epoch:0,idx:250,lr:0.003000,loss:0.00000004
+epoch:0,idx:260,lr:0.003000,loss:0.00000004
+epoch:0,idx:270,lr:0.003000,loss:0.00000003
+epoch:0,idx:280,lr:0.003000,loss:0.00000004
+epoch:0,idx:290,lr:0.003000,loss:0.00000003
+epoch:0,idx:300,lr:0.003000,loss:0.00000004
+epoch:0,idx:310,lr:0.003000,loss:0.00000003
+epoch:0,idx:320,lr:0.003000,loss:0.00000003
+epoch:0,idx:330,lr:0.003000,loss:0.00000004
+epoch:0,idx:340,lr:0.003000,loss:0.00000004
+epoch:0,idx:350,lr:0.003000,loss:0.00000003
+epoch:0,idx:360,lr:0.003000,loss:0.00000004
+epoch:0,idx:370,lr:0.003000,loss:0.00000004
+epoch:0,idx:380,lr:0.003000,loss:0.00000003
+epoch:0,idx:390,lr:0.003000,loss:0.00000004
+epoch:0,idx:400,lr:0.003000,loss:0.00000003
+epoch:0,idx:410,lr:0.003000,loss:0.00000004
+epoch:0,idx:420,lr:0.003000,loss:0.00000003
+epoch:0,idx:430,lr:0.003000,loss:0.00000003
+epoch:0,idx:440,lr:0.003000,loss:0.00000004
+epoch:0,idx:450,lr:0.003000,loss:0.00000003
+epoch:0,idx:460,lr:0.003000,loss:0.00000003
+epoch:0,idx:470,lr:0.003000,loss:0.00000004
+epoch:0,idx:480,lr:0.003000,loss:0.00000003
+epoch:0,idx:490,lr:0.003000,loss:0.00000003
+epoch:0,idx:500,lr:0.003000,loss:0.00000003
+epoch:0,idx:510,lr:0.003000,loss:0.00000003
+epoch:0,idx:520,lr:0.003000,loss:0.00000003
+epoch:0,idx:530,lr:0.003000,loss:0.00000003
+epoch:0,idx:540,lr:0.003000,loss:0.00000004
+epoch:0,idx:550,lr:0.003000,loss:0.00000003
+epoch:0,idx:560,lr:0.003000,loss:0.00000003
+epoch:0,idx:570,lr:0.003000,loss:0.00000004
+epoch:0,idx:580,lr:0.003000,loss:0.00000004
+epoch:0
+idx:0,divloss:4.0759,disloss:134.6434,clsloss:5.3823
+idx:10,divloss:4.2981,disloss:136.4056,clsloss:5.4709
+idx:20,divloss:4.0588,disloss:135.6412,clsloss:5.3145
+idx:30,divloss:4.0770,disloss:146.5412,clsloss:5.3159
+idx:40,divloss:4.1450,disloss:147.4991,clsloss:5.2412
+idx:50,divloss:4.1273,disloss:134.0331,clsloss:5.2624
+idx:60,divloss:4.1775,disloss:146.9900,clsloss:5.2359
+idx:70,divloss:4.1006,disloss:144.0063,clsloss:5.0968
+idx:80,divloss:4.1527,disloss:161.1593,clsloss:5.1857
+idx:90,divloss:4.1715,disloss:130.1059,clsloss:5.0288
+idx:100,divloss:4.1372,disloss:140.7017,clsloss:5.2610
+idx:110,divloss:4.3192,disloss:137.5727,clsloss:5.0748
+idx:120,divloss:4.2113,disloss:139.7117,clsloss:4.9704
+idx:130,divloss:4.1681,disloss:133.3728,clsloss:4.7935
+idx:140,divloss:4.1667,disloss:131.4376,clsloss:4.7197
+idx:150,divloss:4.2438,disloss:117.6247,clsloss:4.8282
+idx:160,divloss:4.2186,disloss:127.4087,clsloss:4.5918
+idx:170,divloss:4.2138,disloss:127.9759,clsloss:4.8360
+idx:180,divloss:4.2650,disloss:137.5884,clsloss:4.6126
+idx:190,divloss:4.1515,disloss:132.6411,clsloss:4.5168
+idx:200,divloss:4.2614,disloss:119.2185,clsloss:4.2701
+idx:210,divloss:4.3091,disloss:120.0799,clsloss:4.4705
+idx:220,divloss:4.3410,disloss:122.5895,clsloss:4.1191
+idx:230,divloss:4.2968,disloss:136.1299,clsloss:4.6460
+idx:240,divloss:4.3165,disloss:130.2996,clsloss:4.3675
+idx:250,divloss:4.3129,disloss:107.7317,clsloss:4.1782
+idx:260,divloss:4.2600,disloss:116.6220,clsloss:4.3898
+idx:270,divloss:4.3573,disloss:118.0920,clsloss:4.0278
+idx:280,divloss:4.2489,disloss:128.9666,clsloss:3.9034
+idx:290,divloss:4.2592,disloss:108.9609,clsloss:3.8965
+idx:300,divloss:4.2881,disloss:109.3727,clsloss:3.8628
+idx:310,divloss:4.2241,disloss:123.4867,clsloss:4.0426
+idx:320,divloss:4.2203,disloss:122.5559,clsloss:4.0334
+idx:330,divloss:4.3390,disloss:121.9006,clsloss:3.9648
+idx:340,divloss:4.2207,disloss:118.8605,clsloss:3.8263
+idx:350,divloss:4.3057,disloss:121.7701,clsloss:3.8603
+idx:360,divloss:4.2307,disloss:109.0442,clsloss:3.8211
+idx:370,divloss:4.3053,disloss:117.9029,clsloss:3.9165
+idx:380,divloss:4.3346,disloss:107.9195,clsloss:3.9196
+idx:390,divloss:4.2272,disloss:117.8951,clsloss:3.8960
+idx:400,divloss:4.2358,disloss:135.1500,clsloss:3.9717
+idx:410,divloss:4.2225,disloss:113.5199,clsloss:3.7752
+idx:420,divloss:4.3159,disloss:107.4348,clsloss:3.6887
+idx:430,divloss:4.3215,disloss:109.3322,clsloss:3.6893
+idx:440,divloss:4.2288,disloss:137.4455,clsloss:3.4958
+idx:450,divloss:4.3245,disloss:103.1526,clsloss:3.4971
+idx:460,divloss:4.2675,disloss:112.3357,clsloss:3.6920
+idx:470,divloss:4.2444,disloss:111.7306,clsloss:3.6359
+idx:480,divloss:4.2128,disloss:110.9569,clsloss:3.2904
+idx:490,divloss:4.2701,disloss:100.9943,clsloss:3.4581
+idx:500,divloss:4.3794,disloss:111.8160,clsloss:3.2324
+idx:510,divloss:4.3726,disloss:113.7113,clsloss:2.9221
+idx:520,divloss:4.2319,disloss:128.7912,clsloss:3.5809
+idx:530,divloss:4.2425,disloss:110.9861,clsloss:3.2185
+idx:540,divloss:4.2652,disloss:129.8545,clsloss:3.2085
+idx:550,divloss:4.3486,disloss:117.0762,clsloss:3.3605
+idx:560,divloss:4.2435,disloss:108.1096,clsloss:3.4021
+idx:570,divloss:4.2809,disloss:101.7760,clsloss:3.4300
+idx:580,divloss:4.2403,disloss:119.9061,clsloss:3.4597
+train,train_loss:211.92038711289229,train_accuracy:0.6160127253446448
+idx:0,divloss:4.3281,disloss:93.4659,clsloss:2.7242
+idx:10,divloss:4.2271,disloss:105.8836,clsloss:2.9178
+idx:20,divloss:4.2455,disloss:117.9379,clsloss:3.3504
+idx:30,divloss:4.2228,disloss:115.2471,clsloss:3.4304
+idx:40,divloss:4.2823,disloss:95.6706,clsloss:3.1335
+idx:50,divloss:4.3438,disloss:125.4283,clsloss:3.7501
+idx:60,divloss:4.3097,disloss:103.7424,clsloss:3.0216
+idx:70,divloss:4.2667,disloss:141.2699,clsloss:3.8646
+idx:80,divloss:4.3273,disloss:105.1505,clsloss:3.3699
+idx:90,divloss:4.2592,disloss:110.1244,clsloss:3.5695
+idx:100,divloss:4.2963,disloss:107.3357,clsloss:2.9068
+idx:110,divloss:4.3762,disloss:115.6178,clsloss:3.4604
+idx:120,divloss:4.3423,disloss:101.4363,clsloss:3.2287
+idx:130,divloss:4.1949,disloss:100.9137,clsloss:3.3013
+idx:140,divloss:4.3462,disloss:109.4157,clsloss:3.6904
+val,val_loss:844.8177594365301,val_accuracy:0.7145886344359627
+epoch:1
+idx:0,divloss:4.2909,disloss:113.2318,clsloss:2.8588
+idx:10,divloss:4.3215,disloss:112.9856,clsloss:2.9994
+idx:20,divloss:4.2483,disloss:105.2284,clsloss:2.8659
+idx:30,divloss:4.2636,disloss:129.0835,clsloss:3.0568
+idx:40,divloss:4.2989,disloss:106.4978,clsloss:2.8273
+idx:50,divloss:4.3500,disloss:120.7474,clsloss:2.7992
+idx:60,divloss:4.3215,disloss:122.4528,clsloss:2.8970
+idx:70,divloss:4.2152,disloss:102.6382,clsloss:2.9262
+idx:80,divloss:4.3085,disloss:91.5367,clsloss:2.2900
+idx:90,divloss:4.1664,disloss:103.4529,clsloss:2.9497
+idx:100,divloss:4.2869,disloss:105.3531,clsloss:2.5701
+idx:110,divloss:4.2763,disloss:108.3494,clsloss:2.7285
+idx:120,divloss:4.2779,disloss:106.6416,clsloss:3.0340
+idx:130,divloss:4.3130,disloss:110.6100,clsloss:2.9658
+idx:140,divloss:4.2157,disloss:113.1363,clsloss:2.6033
+idx:150,divloss:4.2144,disloss:109.5934,clsloss:2.3494
+idx:160,divloss:4.3043,disloss:103.7700,clsloss:2.7115
+idx:170,divloss:4.1636,disloss:107.4214,clsloss:2.9085
+idx:180,divloss:4.2669,disloss:110.7979,clsloss:2.4508
+idx:190,divloss:4.3106,disloss:106.8371,clsloss:1.8231
+idx:200,divloss:4.3500,disloss:107.7411,clsloss:2.3232
+idx:210,divloss:4.2632,disloss:102.3656,clsloss:2.2445
+idx:220,divloss:4.3573,disloss:103.1087,clsloss:2.7532
+idx:230,divloss:4.3062,disloss:96.1784,clsloss:2.2341
+idx:240,divloss:4.3063,disloss:91.5438,clsloss:1.7171
+idx:250,divloss:4.2523,disloss:111.7210,clsloss:2.2748
+idx:260,divloss:4.2731,disloss:121.3610,clsloss:2.4277
+idx:270,divloss:4.2168,disloss:111.6626,clsloss:2.6810
+idx:280,divloss:4.2185,disloss:96.5688,clsloss:2.1178
+idx:290,divloss:4.3371,disloss:94.9150,clsloss:2.3532
+idx:300,divloss:4.3179,disloss:104.3353,clsloss:2.7306
+idx:310,divloss:4.2235,disloss:126.9477,clsloss:2.6646
+idx:320,divloss:4.2775,disloss:88.9619,clsloss:2.0439
+idx:330,divloss:4.2244,disloss:108.7116,clsloss:2.3821
+idx:340,divloss:4.1713,disloss:104.6900,clsloss:2.0022
+idx:350,divloss:4.3205,disloss:118.2722,clsloss:2.4308
+idx:360,divloss:4.2518,disloss:111.6748,clsloss:2.6829
+idx:370,divloss:4.2966,disloss:98.4600,clsloss:1.8349
+idx:380,divloss:4.2396,disloss:114.2905,clsloss:2.4786
+idx:390,divloss:4.1887,disloss:114.4342,clsloss:2.2550
+idx:400,divloss:4.1386,disloss:97.5931,clsloss:2.6792
+idx:410,divloss:4.1969,disloss:90.6349,clsloss:2.5099
+idx:420,divloss:4.2097,disloss:113.4112,clsloss:1.8313
+idx:430,divloss:4.2401,disloss:110.7685,clsloss:2.2428
+idx:440,divloss:4.2493,disloss:109.0436,clsloss:2.2621
+idx:450,divloss:4.3199,disloss:107.4977,clsloss:1.7957
+idx:460,divloss:4.1649,disloss:117.0685,clsloss:2.3408
+idx:470,divloss:4.2085,disloss:101.9041,clsloss:2.5162
+idx:480,divloss:4.2154,disloss:100.4524,clsloss:1.6110
+idx:490,divloss:4.3272,disloss:97.0103,clsloss:2.1996
+idx:500,divloss:4.1930,disloss:98.1019,clsloss:2.4111
+idx:510,divloss:4.0987,disloss:114.0597,clsloss:1.9068
+idx:520,divloss:4.1309,disloss:114.8674,clsloss:2.0546
+idx:530,divloss:4.1513,disloss:109.2974,clsloss:2.0081
+idx:540,divloss:4.3441,disloss:105.0538,clsloss:1.3183
+idx:550,divloss:4.1964,disloss:106.1062,clsloss:1.4687
+idx:560,divloss:4.2326,disloss:114.8411,clsloss:2.4420
+idx:570,divloss:4.2824,disloss:96.3019,clsloss:1.8055
+idx:580,divloss:4.1393,disloss:113.4817,clsloss:1.9912
+train,train_loss:195.4916489681955,train_accuracy:0.9276776246023329
+epoch:2
+idx:0,divloss:4.2718,disloss:106.2628,clsloss:2.3234
+idx:10,divloss:4.1459,disloss:120.7248,clsloss:2.0868
+idx:20,divloss:4.2047,disloss:93.6919,clsloss:1.6133
+idx:30,divloss:4.3342,disloss:105.3299,clsloss:1.8619
+idx:40,divloss:4.1475,disloss:117.6603,clsloss:1.9832
+idx:50,divloss:4.1937,disloss:92.7847,clsloss:1.8930
+idx:60,divloss:4.1771,disloss:105.0087,clsloss:1.7661
+idx:70,divloss:4.2228,disloss:114.4311,clsloss:1.6891
+idx:80,divloss:4.2474,disloss:90.6894,clsloss:1.5462
+idx:90,divloss:4.3345,disloss:91.0836,clsloss:1.5304
+idx:100,divloss:4.1708,disloss:100.8213,clsloss:2.0471
+idx:110,divloss:4.3004,disloss:102.7290,clsloss:1.2857
+idx:120,divloss:4.1601,disloss:98.8208,clsloss:1.5578
+idx:130,divloss:4.2587,disloss:83.7287,clsloss:1.1299
+idx:140,divloss:4.3434,disloss:115.2217,clsloss:1.3794
+idx:150,divloss:4.2442,disloss:106.0647,clsloss:1.1964
+idx:160,divloss:4.2545,disloss:111.9358,clsloss:1.8465
+idx:170,divloss:4.2385,disloss:95.5248,clsloss:1.3587
+idx:180,divloss:4.3112,disloss:103.1394,clsloss:1.3380
+idx:190,divloss:4.3030,disloss:109.7906,clsloss:1.3992
+idx:200,divloss:4.3178,disloss:91.1762,clsloss:1.4511
+idx:210,divloss:4.3568,disloss:100.6351,clsloss:1.7490
+idx:220,divloss:4.1899,disloss:96.8791,clsloss:1.4432
+idx:230,divloss:4.2123,disloss:106.1944,clsloss:1.4661
+idx:240,divloss:4.3080,disloss:114.0428,clsloss:1.2645
+idx:250,divloss:4.1779,disloss:92.8522,clsloss:1.9237
+idx:260,divloss:4.1690,disloss:105.3015,clsloss:2.2303
+idx:270,divloss:4.2317,disloss:95.7957,clsloss:1.3726
+idx:280,divloss:4.2453,disloss:96.3470,clsloss:1.9544
+idx:290,divloss:4.2856,disloss:80.8733,clsloss:1.2801
+idx:300,divloss:4.3784,disloss:95.7387,clsloss:1.4257
+idx:310,divloss:4.1473,disloss:104.5667,clsloss:1.7531
+idx:320,divloss:4.2075,disloss:102.0653,clsloss:1.2960
+idx:330,divloss:4.2955,disloss:88.0060,clsloss:1.5961
+idx:340,divloss:4.1638,disloss:97.4643,clsloss:1.4476
+idx:350,divloss:4.3200,disloss:102.4618,clsloss:1.3882
+idx:360,divloss:4.3395,disloss:81.0730,clsloss:1.2631
+idx:370,divloss:4.2958,disloss:95.2126,clsloss:1.2608
+idx:380,divloss:4.2622,disloss:96.8173,clsloss:1.7770
+idx:390,divloss:4.3417,disloss:96.3630,clsloss:1.3522
+idx:400,divloss:4.2613,disloss:89.3092,clsloss:0.9822
+idx:410,divloss:4.2284,disloss:102.2981,clsloss:1.5105
+idx:420,divloss:4.3287,disloss:96.0560,clsloss:0.9168
+idx:430,divloss:4.2935,disloss:99.4300,clsloss:1.2714
+idx:440,divloss:4.2120,disloss:100.6811,clsloss:1.4774
+idx:450,divloss:4.3164,disloss:95.9278,clsloss:1.5478
+idx:460,divloss:4.1614,disloss:109.0238,clsloss:1.2408
+idx:470,divloss:4.2372,disloss:116.9188,clsloss:1.0275
+idx:480,divloss:4.3335,disloss:90.7555,clsloss:1.0569
+idx:490,divloss:4.1403,disloss:108.3021,clsloss:1.6565
+idx:500,divloss:4.1665,disloss:105.8040,clsloss:1.6984
+idx:510,divloss:4.1314,disloss:107.1198,clsloss:1.3105
+idx:520,divloss:4.1665,disloss:104.1222,clsloss:1.3106
+idx:530,divloss:4.1809,disloss:85.4521,clsloss:1.2258
+idx:540,divloss:4.2205,disloss:97.6767,clsloss:1.3144
+idx:550,divloss:4.1465,disloss:93.9289,clsloss:1.4809
+idx:560,divloss:4.3731,disloss:91.7142,clsloss:1.0714
+idx:570,divloss:4.2342,disloss:80.1857,clsloss:1.5467
+idx:580,divloss:4.1653,disloss:92.1960,clsloss:1.0299
+train,train_loss:185.99314063120696,train_accuracy:0.9626723223753977
+epoch:3
+idx:0,divloss:4.1844,disloss:113.6733,clsloss:1.6834
+idx:10,divloss:4.2303,disloss:101.7046,clsloss:1.6424
+idx:20,divloss:4.1283,disloss:110.7101,clsloss:1.7250
+idx:30,divloss:4.1881,disloss:104.6949,clsloss:1.3090
+idx:40,divloss:4.1897,disloss:109.4853,clsloss:1.2044
+idx:50,divloss:4.2086,disloss:83.9667,clsloss:0.7283
+idx:60,divloss:4.1715,disloss:93.8232,clsloss:1.1691
+idx:70,divloss:4.2957,disloss:104.3790,clsloss:1.1032
+idx:80,divloss:4.3611,disloss:95.7070,clsloss:0.7117
+idx:90,divloss:4.3477,disloss:90.5177,clsloss:1.1838
+idx:100,divloss:4.1129,disloss:105.5344,clsloss:1.5122
+idx:110,divloss:4.3459,disloss:92.2201,clsloss:1.3648
+idx:120,divloss:4.1600,disloss:113.3292,clsloss:1.0495
+idx:130,divloss:4.2720,disloss:95.7188,clsloss:0.7403
+idx:140,divloss:4.2874,disloss:97.2302,clsloss:1.1707
+idx:150,divloss:4.2601,disloss:106.7271,clsloss:1.0484
+idx:160,divloss:4.2003,disloss:81.1989,clsloss:1.6830
+idx:170,divloss:4.2199,disloss:99.2188,clsloss:1.1867
+idx:180,divloss:4.2597,disloss:96.0745,clsloss:1.0740
+idx:190,divloss:4.3678,disloss:81.2543,clsloss:1.1142
+idx:200,divloss:4.2376,disloss:89.1121,clsloss:0.9646
+idx:210,divloss:4.2082,disloss:106.7254,clsloss:1.7958
+idx:220,divloss:4.3296,disloss:92.4677,clsloss:1.1028
+idx:230,divloss:4.1573,disloss:91.8023,clsloss:1.0758
+idx:240,divloss:4.2239,disloss:90.9517,clsloss:1.0929
+idx:250,divloss:4.2415,disloss:95.0049,clsloss:0.9667
+idx:260,divloss:4.1355,disloss:84.6056,clsloss:1.4397
+idx:270,divloss:4.2317,disloss:87.8896,clsloss:1.0517
+idx:280,divloss:4.3176,disloss:87.1664,clsloss:1.0088
+idx:290,divloss:4.3506,disloss:88.9399,clsloss:1.0240
+idx:300,divloss:4.2227,disloss:74.9227,clsloss:0.8469
+idx:310,divloss:4.2553,disloss:77.7810,clsloss:1.0713
+idx:320,divloss:4.2967,disloss:81.7780,clsloss:0.9097
+idx:330,divloss:4.2705,disloss:90.0034,clsloss:1.0579
+idx:340,divloss:4.2500,disloss:107.7032,clsloss:1.9057
+idx:350,divloss:4.1294,disloss:91.4212,clsloss:0.9894
+idx:360,divloss:4.3425,disloss:89.1254,clsloss:0.7434
+idx:370,divloss:4.0506,disloss:91.5401,clsloss:1.1348
+idx:380,divloss:4.1313,disloss:94.4128,clsloss:0.8975
+idx:390,divloss:4.2452,disloss:90.2053,clsloss:0.8670
+idx:400,divloss:4.2958,disloss:91.1869,clsloss:1.4765
+idx:410,divloss:4.2992,disloss:91.8844,clsloss:1.1880
+idx:420,divloss:4.1792,disloss:93.6414,clsloss:1.0451
+idx:430,divloss:4.1890,disloss:82.2177,clsloss:0.6433
+idx:440,divloss:4.2118,disloss:81.6387,clsloss:1.0069
+idx:450,divloss:4.3071,disloss:80.4606,clsloss:0.8746
+idx:460,divloss:4.0545,disloss:85.8522,clsloss:0.8347
+idx:470,divloss:4.2080,disloss:104.2122,clsloss:0.8097
+idx:480,divloss:4.2446,disloss:81.6603,clsloss:0.5093
+idx:490,divloss:4.2443,disloss:91.8751,clsloss:1.0511
+idx:500,divloss:4.1598,disloss:96.1035,clsloss:0.9671
+idx:510,divloss:4.1675,disloss:69.9989,clsloss:0.7940
+idx:520,divloss:4.2680,disloss:85.7345,clsloss:1.0903
+idx:530,divloss:4.3592,disloss:95.9180,clsloss:0.8953
+idx:540,divloss:4.3282,disloss:90.0853,clsloss:0.8288
+idx:550,divloss:4.1811,disloss:100.6348,clsloss:0.9022
+idx:560,divloss:4.0103,disloss:95.1247,clsloss:0.8361
+idx:570,divloss:4.1241,disloss:106.8391,clsloss:1.0205
+idx:580,divloss:4.2929,disloss:73.6034,clsloss:0.4753
+train,train_loss:177.573669743942,train_accuracy:0.9727465535524921
+epoch:4
+idx:0,divloss:4.1862,disloss:91.3668,clsloss:0.7402
+idx:10,divloss:4.3033,disloss:96.7645,clsloss:1.2668
+idx:20,divloss:4.1638,disloss:88.8135,clsloss:0.8578
+idx:30,divloss:4.1817,disloss:80.2592,clsloss:0.5617
+idx:40,divloss:4.2330,disloss:92.9144,clsloss:1.2398
+idx:50,divloss:4.1419,disloss:95.6312,clsloss:1.1195
+idx:60,divloss:4.1678,disloss:83.5572,clsloss:1.0328
+idx:70,divloss:4.2015,disloss:91.9102,clsloss:0.7565
+idx:80,divloss:4.1769,disloss:87.0233,clsloss:1.2346
+idx:90,divloss:4.0950,disloss:98.1600,clsloss:0.9381
+idx:100,divloss:4.2648,disloss:95.5596,clsloss:0.9345
+idx:110,divloss:4.2370,disloss:81.2710,clsloss:0.9898
+idx:120,divloss:4.2627,disloss:81.0314,clsloss:0.4883
+idx:130,divloss:4.1480,disloss:72.4145,clsloss:0.8574
+idx:140,divloss:4.1240,disloss:84.7579,clsloss:1.1868
+idx:150,divloss:4.1583,disloss:66.0688,clsloss:0.6007
+idx:160,divloss:4.2789,disloss:70.9906,clsloss:0.6726
+idx:170,divloss:4.2225,disloss:93.6251,clsloss:0.9948
+idx:180,divloss:4.1496,disloss:77.7647,clsloss:0.8428
+idx:190,divloss:4.1694,disloss:88.5819,clsloss:1.0284
+idx:200,divloss:4.1911,disloss:88.0739,clsloss:1.0279
+idx:210,divloss:4.2344,disloss:61.2430,clsloss:0.7282
+idx:220,divloss:4.1537,disloss:76.7929,clsloss:0.5427
+idx:230,divloss:4.3160,disloss:90.7069,clsloss:0.7009
+idx:240,divloss:4.2464,disloss:97.0352,clsloss:1.0947
+idx:250,divloss:4.1681,disloss:78.2505,clsloss:0.6766
+idx:260,divloss:4.2447,disloss:69.7137,clsloss:0.8277
+idx:270,divloss:4.2147,disloss:74.4300,clsloss:0.8175
+idx:280,divloss:4.2912,disloss:74.6092,clsloss:0.6759
+idx:290,divloss:4.2879,disloss:95.9808,clsloss:0.7399
+idx:300,divloss:4.2655,disloss:81.0128,clsloss:1.0732
+idx:310,divloss:4.1903,disloss:86.8663,clsloss:0.9180
+idx:320,divloss:4.2505,disloss:98.1677,clsloss:0.8481
+idx:330,divloss:4.2860,disloss:76.4076,clsloss:0.6455
+idx:340,divloss:4.2390,disloss:66.3018,clsloss:1.0496
+idx:350,divloss:4.1194,disloss:70.4762,clsloss:0.6029
+idx:360,divloss:4.1990,disloss:65.1848,clsloss:0.6620
+idx:370,divloss:4.2994,disloss:69.1206,clsloss:0.6365
+idx:380,divloss:4.1828,disloss:81.9082,clsloss:0.8216
+idx:390,divloss:4.2327,disloss:72.7920,clsloss:0.7363
+idx:400,divloss:4.1601,disloss:69.3569,clsloss:0.5882
+idx:410,divloss:4.1244,disloss:81.1290,clsloss:0.8429
+idx:420,divloss:4.1585,disloss:95.7960,clsloss:0.7797
+idx:430,divloss:4.2851,disloss:100.0232,clsloss:0.6884
+idx:440,divloss:4.1956,disloss:80.4313,clsloss:0.6768
+idx:450,divloss:4.1324,disloss:73.1873,clsloss:0.7054
+idx:460,divloss:4.1945,disloss:80.5179,clsloss:0.7732
+idx:470,divloss:4.2443,disloss:74.5525,clsloss:0.5261
+idx:480,divloss:4.1412,disloss:84.1660,clsloss:1.0082
+idx:490,divloss:4.2449,disloss:100.9235,clsloss:1.1449
+idx:500,divloss:4.1885,disloss:69.9241,clsloss:0.9926
+idx:510,divloss:4.1695,disloss:84.3106,clsloss:0.7429
+idx:520,divloss:4.1713,disloss:69.1518,clsloss:0.9603
+idx:530,divloss:4.2488,disloss:82.1627,clsloss:1.0452
+idx:540,divloss:4.2856,disloss:76.9838,clsloss:0.6987
+idx:550,divloss:4.1933,disloss:77.8735,clsloss:0.8514
+idx:560,divloss:4.2026,disloss:72.8472,clsloss:0.8066
+idx:570,divloss:4.2651,disloss:62.5337,clsloss:0.6254
+idx:580,divloss:4.1448,disloss:85.2911,clsloss:0.7973
+train,train_loss:166.98307360632944,train_accuracy:0.9816542948038176
+epoch:5
+idx:0,divloss:4.3746,disloss:70.8170,clsloss:0.9898
+idx:10,divloss:4.2595,disloss:65.7090,clsloss:0.4923
+idx:20,divloss:4.1241,disloss:72.1935,clsloss:0.4092
+idx:30,divloss:4.0410,disloss:75.3099,clsloss:1.0186
+idx:40,divloss:4.1998,disloss:71.5026,clsloss:0.9270
+idx:50,divloss:4.1428,disloss:77.5157,clsloss:0.5174
+idx:60,divloss:4.1895,disloss:93.8842,clsloss:1.0783
+idx:70,divloss:4.0735,disloss:60.6205,clsloss:0.8678
+idx:80,divloss:4.2028,disloss:86.6625,clsloss:0.6511
+idx:90,divloss:4.2359,disloss:60.8021,clsloss:0.6720
+idx:100,divloss:4.3324,disloss:85.3020,clsloss:0.9661
+idx:110,divloss:4.1949,disloss:73.2369,clsloss:0.9717
+idx:120,divloss:4.2554,disloss:90.7976,clsloss:0.7161
+idx:130,divloss:4.3511,disloss:77.5573,clsloss:0.7423
+idx:140,divloss:4.1933,disloss:76.9918,clsloss:0.7603
+idx:150,divloss:4.1859,disloss:86.5070,clsloss:0.7593
+idx:160,divloss:4.2662,disloss:74.5692,clsloss:0.8865
+idx:170,divloss:4.2238,disloss:90.8257,clsloss:0.9070
+idx:180,divloss:4.2251,disloss:76.9057,clsloss:0.8403
+idx:190,divloss:4.1881,disloss:87.8927,clsloss:0.8511
+idx:200,divloss:4.2166,disloss:72.4087,clsloss:1.0412
+idx:210,divloss:4.1856,disloss:83.2795,clsloss:0.5855
+idx:220,divloss:4.1696,disloss:59.9228,clsloss:0.7594
+idx:230,divloss:4.2261,disloss:92.2992,clsloss:0.7646
+idx:240,divloss:4.2488,disloss:84.3746,clsloss:0.8889
+idx:250,divloss:4.1711,disloss:86.2426,clsloss:0.4867
+idx:260,divloss:4.1810,disloss:86.4445,clsloss:0.6558
+idx:270,divloss:4.2384,disloss:75.7704,clsloss:1.0114
+idx:280,divloss:4.2270,disloss:75.2540,clsloss:0.9287
+idx:290,divloss:4.1649,disloss:69.9887,clsloss:0.4251
+idx:300,divloss:4.1929,disloss:74.1260,clsloss:0.5155
+idx:310,divloss:4.1938,disloss:67.3976,clsloss:0.5514
+idx:320,divloss:4.2418,disloss:81.0774,clsloss:1.0002
+idx:330,divloss:4.1487,disloss:79.5312,clsloss:0.8446
+idx:340,divloss:4.2090,disloss:88.0753,clsloss:0.8840
+idx:350,divloss:4.1412,disloss:83.0590,clsloss:0.7347
+idx:360,divloss:4.0362,disloss:65.9399,clsloss:0.4434
+idx:370,divloss:4.1482,disloss:74.1413,clsloss:0.6461
+idx:380,divloss:4.1366,disloss:63.4910,clsloss:0.8028
+idx:390,divloss:4.0995,disloss:85.0321,clsloss:0.7252
+idx:400,divloss:4.2450,disloss:72.3696,clsloss:0.8778
+idx:410,divloss:4.0317,disloss:76.9083,clsloss:0.8296
+idx:420,divloss:4.1769,disloss:86.7541,clsloss:0.8694
+idx:430,divloss:4.1999,disloss:73.8913,clsloss:0.6726
+idx:440,divloss:4.1293,disloss:69.3300,clsloss:0.8922
+idx:450,divloss:4.1343,disloss:73.3647,clsloss:0.7497
+idx:460,divloss:4.1012,disloss:61.7094,clsloss:0.8382
+idx:470,divloss:4.2004,disloss:77.5122,clsloss:0.5751
+idx:480,divloss:4.2793,disloss:90.4064,clsloss:0.7316
+idx:490,divloss:4.1460,disloss:63.2617,clsloss:0.5932
+idx:500,divloss:4.2516,disloss:79.9134,clsloss:1.0908
+idx:510,divloss:4.1446,disloss:71.2542,clsloss:1.1598
+idx:520,divloss:4.1806,disloss:65.7215,clsloss:0.5386
+idx:530,divloss:4.2022,disloss:72.8557,clsloss:0.7094
+idx:540,divloss:4.1593,disloss:82.9366,clsloss:1.0400
+idx:550,divloss:4.2246,disloss:83.6712,clsloss:0.9347
+idx:560,divloss:4.2033,disloss:66.5836,clsloss:0.7047
+idx:570,divloss:4.2016,disloss:68.2931,clsloss:0.3541
+idx:580,divloss:4.2204,disloss:78.7781,clsloss:0.8677
+train,train_loss:159.12734387931178,train_accuracy:0.9826086956521739
+idx:0,divloss:4.1121,disloss:75.7890,clsloss:1.3097
+idx:10,divloss:4.1052,disloss:58.7390,clsloss:2.6997
+idx:20,divloss:4.1757,disloss:62.5649,clsloss:1.3855
+idx:30,divloss:4.2901,disloss:78.4216,clsloss:2.2319
+idx:40,divloss:4.1482,disloss:70.1434,clsloss:1.1716
+idx:50,divloss:4.1705,disloss:75.5870,clsloss:1.3162
+idx:60,divloss:4.1131,disloss:69.8117,clsloss:1.5962
+idx:70,divloss:4.1170,disloss:79.7135,clsloss:1.8686
+idx:80,divloss:4.2049,disloss:61.2528,clsloss:1.4729
+idx:90,divloss:4.2234,disloss:66.2986,clsloss:1.0098
+idx:100,divloss:4.2859,disloss:75.6088,clsloss:1.5868
+idx:110,divloss:4.0792,disloss:86.3749,clsloss:1.4378
+idx:120,divloss:4.1516,disloss:82.0088,clsloss:1.2558
+idx:130,divloss:4.2032,disloss:84.3944,clsloss:1.5751
+idx:140,divloss:4.0630,disloss:68.6936,clsloss:1.4505
+val,val_loss:634.3590060053644,val_accuracy:0.7514843087362172
+epoch:6
+idx:0,divloss:4.1074,disloss:63.5285,clsloss:0.6932
+idx:10,divloss:4.1221,disloss:64.4942,clsloss:0.7013
+idx:20,divloss:4.1170,disloss:74.7191,clsloss:0.4047
+idx:30,divloss:4.1301,disloss:66.4064,clsloss:0.4935
+idx:40,divloss:4.1526,disloss:78.1205,clsloss:1.0335
+idx:50,divloss:4.1852,disloss:62.7969,clsloss:0.3843
+idx:60,divloss:4.0017,disloss:67.7210,clsloss:0.5325
+idx:70,divloss:4.1580,disloss:62.8761,clsloss:0.3527
+idx:80,divloss:4.2752,disloss:58.8901,clsloss:0.3890
+idx:90,divloss:4.1567,disloss:77.4929,clsloss:0.8228
+idx:100,divloss:4.1760,disloss:65.3023,clsloss:0.8119
+idx:110,divloss:4.1564,disloss:58.7976,clsloss:0.9191
+idx:120,divloss:4.0267,disloss:63.2786,clsloss:0.7272
+idx:130,divloss:4.1800,disloss:59.6398,clsloss:0.6705
+idx:140,divloss:4.1000,disloss:72.8396,clsloss:0.6151
+idx:150,divloss:4.0567,disloss:65.8024,clsloss:0.5439
+idx:160,divloss:4.1063,disloss:85.4795,clsloss:0.5825
+idx:170,divloss:4.1126,disloss:71.7031,clsloss:0.5282
+idx:180,divloss:4.2258,disloss:69.4538,clsloss:0.6489
+idx:190,divloss:4.1210,disloss:74.2056,clsloss:0.5205
+idx:200,divloss:4.0420,disloss:70.4338,clsloss:0.3889
+idx:210,divloss:4.1086,disloss:66.6911,clsloss:0.9522
+idx:220,divloss:4.0242,disloss:80.1959,clsloss:0.6550
+idx:230,divloss:4.1735,disloss:64.8246,clsloss:0.6888
+idx:240,divloss:4.1238,disloss:61.5394,clsloss:0.6113
+idx:250,divloss:4.1812,disloss:72.2759,clsloss:0.7157
+idx:260,divloss:4.0799,disloss:63.6845,clsloss:0.4697
+idx:270,divloss:4.0415,disloss:62.6285,clsloss:0.7738
+idx:280,divloss:4.0552,disloss:54.5979,clsloss:0.4209
+idx:290,divloss:4.2074,disloss:78.4248,clsloss:0.6739
+idx:300,divloss:4.1633,disloss:69.1006,clsloss:0.4986
+idx:310,divloss:4.2048,disloss:75.7599,clsloss:0.9575
+idx:320,divloss:4.1323,disloss:79.2422,clsloss:0.8210
+idx:330,divloss:4.1300,disloss:62.1474,clsloss:0.4830
+idx:340,divloss:4.2364,disloss:71.7959,clsloss:0.3665
+idx:350,divloss:3.9369,disloss:60.9811,clsloss:0.6537
+idx:360,divloss:4.1824,disloss:70.9408,clsloss:0.7865
+idx:370,divloss:4.1927,disloss:66.8577,clsloss:0.5351
+idx:380,divloss:3.9703,disloss:66.9258,clsloss:0.7336
+idx:390,divloss:4.0474,disloss:62.5173,clsloss:0.3624
+idx:400,divloss:4.1140,disloss:61.8171,clsloss:0.8622
+idx:410,divloss:4.0984,disloss:62.8642,clsloss:0.4941
+idx:420,divloss:4.0815,disloss:57.0063,clsloss:0.5441
+idx:430,divloss:4.1267,disloss:69.3433,clsloss:0.5449
+idx:440,divloss:4.2781,disloss:59.9566,clsloss:0.5176
+idx:450,divloss:4.0859,disloss:74.7195,clsloss:0.7886
+idx:460,divloss:4.1594,disloss:79.4513,clsloss:0.5916
+idx:470,divloss:4.2392,disloss:69.0656,clsloss:0.7472
+idx:480,divloss:4.0643,disloss:65.1807,clsloss:0.5248
+idx:490,divloss:4.1043,disloss:54.5809,clsloss:0.4051
+idx:500,divloss:3.9742,disloss:60.7739,clsloss:0.9202
+idx:510,divloss:4.0647,disloss:56.3426,clsloss:0.4627
+idx:520,divloss:4.1314,disloss:64.6846,clsloss:0.4599
+idx:530,divloss:4.1199,disloss:67.7648,clsloss:0.6475
+idx:540,divloss:4.1059,disloss:76.2983,clsloss:0.9702
+idx:550,divloss:4.1677,disloss:70.1599,clsloss:0.9178
+idx:560,divloss:4.1353,disloss:61.7946,clsloss:0.5864
+idx:570,divloss:4.0701,disloss:67.1342,clsloss:0.3634
+idx:580,divloss:4.2325,disloss:63.4422,clsloss:0.4425
+train,train_loss:150.961016690529,train_accuracy:0.9865323435843054
+epoch:7
+idx:0,divloss:4.1799,disloss:77.1249,clsloss:0.3680
+idx:10,divloss:4.0830,disloss:71.3886,clsloss:0.5294
+idx:20,divloss:4.1077,disloss:67.8263,clsloss:0.4058
+idx:30,divloss:4.0611,disloss:60.2253,clsloss:0.7338
+idx:40,divloss:4.0953,disloss:66.7900,clsloss:0.5553
+idx:50,divloss:4.0609,disloss:56.0900,clsloss:0.4932
+idx:60,divloss:4.1072,disloss:65.0615,clsloss:0.5196
+idx:70,divloss:4.2457,disloss:66.0160,clsloss:0.4886
+idx:80,divloss:4.0505,disloss:74.6612,clsloss:0.9295
+idx:90,divloss:4.1466,disloss:68.5597,clsloss:0.4601
+idx:100,divloss:4.0419,disloss:68.0960,clsloss:1.0781
+idx:110,divloss:4.1345,disloss:64.9226,clsloss:0.6905
+idx:120,divloss:4.0798,disloss:65.0048,clsloss:0.6326
+idx:130,divloss:4.0298,disloss:63.7833,clsloss:0.5749
+idx:140,divloss:4.0638,disloss:58.4854,clsloss:0.5481
+idx:150,divloss:4.0126,disloss:76.0403,clsloss:0.7683
+idx:160,divloss:4.1098,disloss:63.7209,clsloss:0.5135
+idx:170,divloss:4.0141,disloss:49.1035,clsloss:0.8924
+idx:180,divloss:4.0276,disloss:55.4017,clsloss:0.2979
+idx:190,divloss:4.0297,disloss:75.3038,clsloss:0.8063
+idx:200,divloss:4.0527,disloss:64.0222,clsloss:1.2921
+idx:210,divloss:4.1363,disloss:68.6140,clsloss:0.5417
+idx:220,divloss:4.0989,disloss:61.9663,clsloss:0.5629
+idx:230,divloss:4.0588,disloss:65.3860,clsloss:0.3489
+idx:240,divloss:4.1068,disloss:64.2635,clsloss:0.4499
+idx:250,divloss:4.0006,disloss:64.8834,clsloss:0.7252
+idx:260,divloss:4.0833,disloss:63.1775,clsloss:0.4296
+idx:270,divloss:4.1266,disloss:63.0257,clsloss:1.0593
+idx:280,divloss:4.1523,disloss:71.2919,clsloss:1.0243
+idx:290,divloss:4.0196,disloss:57.6875,clsloss:0.8383
+idx:300,divloss:3.8810,disloss:60.9857,clsloss:0.5573
+idx:310,divloss:4.1881,disloss:63.7271,clsloss:0.5903
+idx:320,divloss:4.2294,disloss:63.2166,clsloss:0.6423
+idx:330,divloss:4.0851,disloss:76.3031,clsloss:0.2878
+idx:340,divloss:4.1073,disloss:61.8415,clsloss:0.5507
+idx:350,divloss:3.9684,disloss:65.8201,clsloss:1.1215
+idx:360,divloss:4.0686,disloss:56.0632,clsloss:0.4536
+idx:370,divloss:4.0034,disloss:58.9188,clsloss:0.8628
+idx:380,divloss:4.0186,disloss:54.9874,clsloss:0.4684
+idx:390,divloss:3.9708,disloss:55.8729,clsloss:0.5531
+idx:400,divloss:4.0536,disloss:66.6454,clsloss:0.7408
+idx:410,divloss:3.9425,disloss:58.3167,clsloss:0.7964
+idx:420,divloss:3.8144,disloss:58.4479,clsloss:0.7006
+idx:430,divloss:3.9772,disloss:61.8903,clsloss:0.9348
+idx:440,divloss:3.8683,disloss:48.6880,clsloss:0.3914
+idx:450,divloss:3.9831,disloss:74.2251,clsloss:0.5041
+idx:460,divloss:4.0684,disloss:67.4489,clsloss:1.0271
+idx:470,divloss:4.0602,disloss:65.6186,clsloss:0.5326
+idx:480,divloss:3.9944,disloss:56.9045,clsloss:0.6135
+idx:490,divloss:4.1121,disloss:67.6577,clsloss:0.7633
+idx:500,divloss:3.9831,disloss:63.3224,clsloss:0.3460
+idx:510,divloss:3.9732,disloss:58.5753,clsloss:0.7191
+idx:520,divloss:4.0173,disloss:57.0926,clsloss:0.5530
+idx:530,divloss:4.0477,disloss:54.4455,clsloss:0.6301
+idx:540,divloss:4.0535,disloss:52.1502,clsloss:0.1206
+idx:550,divloss:4.0425,disloss:63.7236,clsloss:0.5943
+idx:560,divloss:3.9761,disloss:75.5002,clsloss:0.6686
+idx:570,divloss:3.9379,disloss:66.6975,clsloss:0.6236
+idx:580,divloss:4.0367,disloss:58.0775,clsloss:0.4481
+train,train_loss:143.53506136102192,train_accuracy:0.9862142099681867
+epoch:8
+idx:0,divloss:4.0308,disloss:68.5410,clsloss:0.5342
+idx:10,divloss:3.9119,disloss:56.6286,clsloss:0.5720
+idx:20,divloss:4.0402,disloss:57.3308,clsloss:0.6594
+idx:30,divloss:3.9550,disloss:58.0503,clsloss:0.4670
+idx:40,divloss:3.9848,disloss:62.8194,clsloss:0.8314
+idx:50,divloss:3.9727,disloss:62.3132,clsloss:0.6785
+idx:60,divloss:3.9500,disloss:49.4089,clsloss:0.3739
+idx:70,divloss:3.9827,disloss:62.0410,clsloss:0.9490
+idx:80,divloss:3.9445,disloss:53.3605,clsloss:0.4111
+idx:90,divloss:4.0489,disloss:54.6536,clsloss:0.4422
+idx:100,divloss:3.9771,disloss:52.3284,clsloss:0.7316
+idx:110,divloss:3.8841,disloss:64.9617,clsloss:0.7194
+idx:120,divloss:3.8885,disloss:51.4043,clsloss:0.2967
+idx:130,divloss:3.8875,disloss:57.0965,clsloss:0.9279
+idx:140,divloss:3.8811,disloss:45.0515,clsloss:0.5285
+idx:150,divloss:4.0400,disloss:61.5647,clsloss:0.6702
+idx:160,divloss:3.9403,disloss:52.9286,clsloss:0.7549
+idx:170,divloss:3.9118,disloss:68.2221,clsloss:0.5479
+idx:180,divloss:4.0405,disloss:62.0236,clsloss:0.8083
+idx:190,divloss:3.9115,disloss:53.1300,clsloss:0.6268
+idx:200,divloss:3.9686,disloss:56.7512,clsloss:0.8922
+idx:210,divloss:3.9153,disloss:55.5746,clsloss:0.3906
+idx:220,divloss:3.8143,disloss:49.6869,clsloss:0.4886
+idx:230,divloss:3.9128,disloss:48.6855,clsloss:0.5518
+idx:240,divloss:3.9135,disloss:60.4477,clsloss:0.6602
+idx:250,divloss:4.0695,disloss:59.3387,clsloss:0.4144
+idx:260,divloss:3.8761,disloss:56.8387,clsloss:0.5746
+idx:270,divloss:3.8503,disloss:55.6577,clsloss:0.5693
+idx:280,divloss:3.7889,disloss:45.6111,clsloss:0.8533
+idx:290,divloss:3.9840,disloss:53.3833,clsloss:0.5053
+idx:300,divloss:3.8137,disloss:52.3953,clsloss:0.2991
+idx:310,divloss:4.0038,disloss:69.4327,clsloss:0.4251
+idx:320,divloss:3.9188,disloss:52.6165,clsloss:1.1549
+idx:330,divloss:4.0292,disloss:50.5564,clsloss:0.5434
+idx:340,divloss:3.8262,disloss:55.1194,clsloss:0.9196
+idx:350,divloss:3.8742,disloss:53.6058,clsloss:0.5310
+idx:360,divloss:3.8704,disloss:42.6885,clsloss:0.4776
+idx:370,divloss:3.8430,disloss:48.1126,clsloss:0.7131
+idx:380,divloss:3.9325,disloss:63.2129,clsloss:0.6762
+idx:390,divloss:3.9600,disloss:55.2789,clsloss:0.3542
+idx:400,divloss:3.9270,disloss:55.4922,clsloss:0.3401
+idx:410,divloss:3.9079,disloss:64.1850,clsloss:0.6610
+idx:420,divloss:3.9777,disloss:53.2802,clsloss:0.6543
+idx:430,divloss:3.9879,disloss:58.2802,clsloss:0.3760
+idx:440,divloss:3.8852,disloss:49.2857,clsloss:0.3239
+idx:450,divloss:4.0139,disloss:51.1093,clsloss:0.5761
+idx:460,divloss:3.9232,disloss:48.5277,clsloss:0.3590
+idx:470,divloss:4.0052,disloss:52.1513,clsloss:0.5885
+idx:480,divloss:4.0024,disloss:70.5065,clsloss:0.8502
+idx:490,divloss:4.0189,disloss:64.5331,clsloss:0.5487
+idx:500,divloss:3.9850,disloss:57.0121,clsloss:0.5757
+idx:510,divloss:3.8728,disloss:53.2776,clsloss:0.4497
+idx:520,divloss:3.8898,disloss:58.8401,clsloss:0.5111
+idx:530,divloss:3.8753,disloss:56.2679,clsloss:0.4363
+idx:540,divloss:4.0328,disloss:69.7754,clsloss:0.5517
+idx:550,divloss:3.9487,disloss:56.9742,clsloss:0.5155
+idx:560,divloss:3.8391,disloss:52.0350,clsloss:0.4286
+idx:570,divloss:3.8612,disloss:58.6087,clsloss:0.5198
+idx:580,divloss:4.0595,disloss:52.0058,clsloss:0.3815
+train,train_loss:136.2971176018149,train_accuracy:0.9889713679745493
+epoch:9
+idx:0,divloss:4.0308,disloss:56.1608,clsloss:0.6128
+idx:10,divloss:3.9629,disloss:67.5678,clsloss:0.5901
+idx:20,divloss:4.0199,disloss:54.0125,clsloss:0.5376
+idx:30,divloss:4.0055,disloss:57.3692,clsloss:0.4806
+idx:40,divloss:3.9870,disloss:60.0862,clsloss:0.3312
+idx:50,divloss:3.8418,disloss:62.9593,clsloss:0.9427
+idx:60,divloss:3.8718,disloss:58.6375,clsloss:0.5665
+idx:70,divloss:3.8711,disloss:65.4074,clsloss:0.5830
+idx:80,divloss:3.9385,disloss:53.1635,clsloss:0.4094
+idx:90,divloss:3.9876,disloss:53.8497,clsloss:0.6629
+idx:100,divloss:3.8925,disloss:61.5616,clsloss:1.0223
+idx:110,divloss:3.8997,disloss:48.9639,clsloss:0.4171
+idx:120,divloss:3.8788,disloss:48.3973,clsloss:0.2126
+idx:130,divloss:3.9574,disloss:62.6411,clsloss:0.5620
+idx:140,divloss:3.9490,disloss:57.7085,clsloss:1.0598
+idx:150,divloss:3.8427,disloss:56.2622,clsloss:0.4492
+idx:160,divloss:3.9928,disloss:75.5394,clsloss:0.5063
+idx:170,divloss:3.7781,disloss:55.2393,clsloss:0.3963
+idx:180,divloss:3.7899,disloss:50.5149,clsloss:0.7280
+idx:190,divloss:3.9015,disloss:63.0138,clsloss:0.4807
+idx:200,divloss:3.8747,disloss:53.7190,clsloss:0.4083
+idx:210,divloss:3.8288,disloss:47.0523,clsloss:0.4561
+idx:220,divloss:4.0281,disloss:74.5168,clsloss:0.6723
+idx:230,divloss:3.8173,disloss:53.7556,clsloss:0.6036
+idx:240,divloss:3.8927,disloss:54.4625,clsloss:0.4387
+idx:250,divloss:3.8122,disloss:55.3856,clsloss:0.6988
+idx:260,divloss:3.8337,disloss:59.6200,clsloss:0.3293
+idx:270,divloss:3.8277,disloss:68.5367,clsloss:0.5456
+idx:280,divloss:3.8445,disloss:54.8989,clsloss:0.3344
+idx:290,divloss:3.8760,disloss:63.1156,clsloss:0.6614
+idx:300,divloss:4.0191,disloss:57.9822,clsloss:0.5605
+idx:310,divloss:3.9088,disloss:52.7926,clsloss:0.7130
+idx:320,divloss:3.8648,disloss:61.3956,clsloss:0.4161
+idx:330,divloss:3.8347,disloss:52.7295,clsloss:0.7790
+idx:340,divloss:3.9548,disloss:50.2264,clsloss:0.4760
+idx:350,divloss:3.8829,disloss:47.0840,clsloss:0.6674
+idx:360,divloss:3.9085,disloss:58.9867,clsloss:0.3832
+idx:370,divloss:3.8273,disloss:72.2754,clsloss:0.9190
+idx:380,divloss:3.8448,disloss:55.3610,clsloss:0.6509
+idx:390,divloss:3.9738,disloss:62.1265,clsloss:0.7180
+idx:400,divloss:3.9195,disloss:60.9168,clsloss:0.8140
+idx:410,divloss:3.9872,disloss:59.6178,clsloss:0.5221
+idx:420,divloss:3.8184,disloss:54.7937,clsloss:0.4185
+idx:430,divloss:3.8892,disloss:60.8492,clsloss:0.5928
+idx:440,divloss:3.8782,disloss:69.2048,clsloss:0.7885
+idx:450,divloss:3.8818,disloss:51.7329,clsloss:0.7760
+idx:460,divloss:3.8146,disloss:51.3787,clsloss:0.7415
+idx:470,divloss:3.8814,disloss:60.4339,clsloss:0.4083
+idx:480,divloss:3.8917,disloss:73.6832,clsloss:0.3664
+idx:490,divloss:3.8808,disloss:62.7594,clsloss:0.4120
+idx:500,divloss:3.9217,disloss:54.6914,clsloss:0.6667
+idx:510,divloss:3.7818,disloss:50.4625,clsloss:0.3675
+idx:520,divloss:3.7682,disloss:47.2424,clsloss:0.3580
+idx:530,divloss:3.8186,disloss:57.2987,clsloss:0.8647
+idx:540,divloss:3.7937,disloss:49.8014,clsloss:0.5877
+idx:550,divloss:3.7947,disloss:44.6766,clsloss:0.5650
+idx:560,divloss:3.7752,disloss:45.9546,clsloss:0.4839
+idx:570,divloss:3.8548,disloss:50.1749,clsloss:0.5529
+idx:580,divloss:3.7234,disloss:44.0366,clsloss:0.6066
+train,train_loss:134.1346896155406,train_accuracy:0.9874867444326617
+epoch:10
+idx:0,divloss:3.9476,disloss:70.5429,clsloss:1.0175
+idx:10,divloss:4.0034,disloss:54.5310,clsloss:0.7038
+idx:20,divloss:3.7461,disloss:45.0132,clsloss:0.4899
+idx:30,divloss:3.7844,disloss:50.3096,clsloss:0.3284
+idx:40,divloss:3.7994,disloss:49.4845,clsloss:0.4762
+idx:50,divloss:4.0001,disloss:59.7447,clsloss:0.8973
+idx:60,divloss:3.6972,disloss:48.8323,clsloss:0.6529
+idx:70,divloss:3.8094,disloss:47.4547,clsloss:0.6233
+idx:80,divloss:3.7310,disloss:62.7885,clsloss:0.4194
+idx:90,divloss:3.8385,disloss:51.9992,clsloss:0.4690
+idx:100,divloss:3.9369,disloss:62.8105,clsloss:0.9130
+idx:110,divloss:3.8052,disloss:58.4656,clsloss:0.6539
+idx:120,divloss:3.7587,disloss:58.6358,clsloss:0.3470
+idx:130,divloss:3.7584,disloss:51.6223,clsloss:0.3853
+idx:140,divloss:3.8253,disloss:51.5791,clsloss:0.5072
+idx:150,divloss:3.9808,disloss:64.5385,clsloss:0.4069
+idx:160,divloss:3.7670,disloss:57.4958,clsloss:0.4601
+idx:170,divloss:3.9603,disloss:53.6941,clsloss:0.5018
+idx:180,divloss:3.7447,disloss:54.0226,clsloss:0.4872
+idx:190,divloss:3.8684,disloss:50.9920,clsloss:0.6128
+idx:200,divloss:3.8962,disloss:53.4762,clsloss:0.5226
+idx:210,divloss:3.8517,disloss:56.8181,clsloss:0.3553
+idx:220,divloss:3.8328,disloss:64.7119,clsloss:0.9290
+idx:230,divloss:3.9202,disloss:54.6886,clsloss:0.6097
+idx:240,divloss:3.7685,disloss:49.5063,clsloss:0.4850
+idx:250,divloss:3.8531,disloss:54.4098,clsloss:0.3569
+idx:260,divloss:3.7467,disloss:54.4520,clsloss:0.3503
+idx:270,divloss:3.7145,disloss:66.1815,clsloss:1.0870
+idx:280,divloss:3.7429,disloss:43.7153,clsloss:0.5747
+idx:290,divloss:3.7096,disloss:49.8887,clsloss:0.5900
+idx:300,divloss:3.7990,disloss:45.7187,clsloss:0.7337
+idx:310,divloss:3.8504,disloss:52.7698,clsloss:0.6171
+idx:320,divloss:3.7974,disloss:52.3813,clsloss:0.2032
+idx:330,divloss:3.8425,disloss:50.8638,clsloss:0.6082
+idx:340,divloss:3.7901,disloss:46.5241,clsloss:0.8472
+idx:350,divloss:3.8143,disloss:46.3541,clsloss:0.4136
+idx:360,divloss:3.8122,disloss:50.0973,clsloss:0.6270
+idx:370,divloss:3.7454,disloss:48.8848,clsloss:0.8392
+idx:380,divloss:3.7522,disloss:49.6245,clsloss:0.5222
+idx:390,divloss:3.8490,disloss:51.1135,clsloss:0.5453
+idx:400,divloss:3.7559,disloss:45.9859,clsloss:0.5841
+idx:410,divloss:3.8159,disloss:45.3621,clsloss:0.4739
+idx:420,divloss:3.7784,disloss:55.0695,clsloss:0.4418
+idx:430,divloss:3.7652,disloss:50.5103,clsloss:0.5224
+idx:440,divloss:3.7214,disloss:40.9113,clsloss:0.3177
+idx:450,divloss:3.7914,disloss:54.7506,clsloss:0.4285
+idx:460,divloss:3.7916,disloss:49.1867,clsloss:0.2413
+idx:470,divloss:3.8646,disloss:50.5205,clsloss:0.2568
+idx:480,divloss:3.7117,disloss:45.2994,clsloss:0.4106
+idx:490,divloss:3.8113,disloss:57.2942,clsloss:0.5493
+idx:500,divloss:3.8923,disloss:47.6816,clsloss:0.3645
+idx:510,divloss:3.9413,disloss:50.8168,clsloss:0.5903
+idx:520,divloss:3.7358,disloss:46.5968,clsloss:0.3674
+idx:530,divloss:3.8240,disloss:44.8675,clsloss:0.7130
+idx:540,divloss:3.8033,disloss:51.2264,clsloss:0.6581
+idx:550,divloss:3.8547,disloss:49.3905,clsloss:0.5335
+idx:560,divloss:3.8809,disloss:44.2450,clsloss:0.5511
+idx:570,divloss:3.7829,disloss:50.4643,clsloss:0.7278
+idx:580,divloss:3.6810,disloss:42.7402,clsloss:0.5917
+train,train_loss:129.46851326893952,train_accuracy:0.9918345705196182
+idx:0,divloss:3.7998,disloss:57.6391,clsloss:1.0919
+idx:10,divloss:3.7505,disloss:38.7699,clsloss:0.9474
+idx:20,divloss:3.8234,disloss:61.0704,clsloss:1.1995
+idx:30,divloss:3.8188,disloss:50.6936,clsloss:1.0838
+idx:40,divloss:3.6384,disloss:43.5609,clsloss:1.4474
+idx:50,divloss:3.8262,disloss:53.1736,clsloss:1.0648
+idx:60,divloss:3.7801,disloss:45.9850,clsloss:1.0425
+idx:70,divloss:3.7763,disloss:61.6294,clsloss:0.7604
+idx:80,divloss:3.9506,disloss:66.2496,clsloss:0.7186
+idx:90,divloss:3.7079,disloss:55.8125,clsloss:1.1028
+idx:100,divloss:3.8285,disloss:59.0381,clsloss:0.9896
+idx:110,divloss:3.6909,disloss:42.6424,clsloss:1.9665
+idx:120,divloss:3.8522,disloss:58.4692,clsloss:1.0097
+idx:130,divloss:3.7595,disloss:49.0153,clsloss:1.1174
+idx:140,divloss:3.7749,disloss:57.9096,clsloss:0.6929
+val,val_loss:516.1244785721237,val_accuracy:0.768871925360475
+epoch:11
+idx:0,divloss:3.7968,disloss:42.9394,clsloss:0.5576
+idx:10,divloss:3.7070,disloss:59.0429,clsloss:0.3997
+idx:20,divloss:3.8658,disloss:56.8722,clsloss:0.8372
+idx:30,divloss:3.8023,disloss:57.2672,clsloss:0.5284
+idx:40,divloss:3.6748,disloss:49.6821,clsloss:0.4992
+idx:50,divloss:3.8030,disloss:53.1020,clsloss:0.3544
+idx:60,divloss:3.8309,disloss:70.0836,clsloss:0.3746
+idx:70,divloss:3.7273,disloss:50.1105,clsloss:0.9805
+idx:80,divloss:3.7534,disloss:56.2786,clsloss:0.3919
+idx:90,divloss:3.6006,disloss:52.3956,clsloss:0.7231
+idx:100,divloss:3.7556,disloss:46.1298,clsloss:0.2874
+idx:110,divloss:3.8816,disloss:49.5620,clsloss:0.4059
+idx:120,divloss:3.8437,disloss:62.8769,clsloss:0.8368
+idx:130,divloss:3.8287,disloss:52.4637,clsloss:0.4119
+idx:140,divloss:3.8058,disloss:57.9829,clsloss:0.4719
+idx:150,divloss:3.7805,disloss:52.6268,clsloss:0.5165
+idx:160,divloss:3.7423,disloss:66.2224,clsloss:0.6720
+idx:170,divloss:3.6975,disloss:45.5790,clsloss:0.4661
+idx:180,divloss:3.7258,disloss:51.8143,clsloss:0.4410
+idx:190,divloss:3.7757,disloss:54.8996,clsloss:0.4608
+idx:200,divloss:3.7815,disloss:59.7270,clsloss:0.4185
+idx:210,divloss:3.8072,disloss:51.2384,clsloss:0.8107
+idx:220,divloss:3.6492,disloss:59.3389,clsloss:0.7214
+idx:230,divloss:3.6920,disloss:46.6816,clsloss:0.3899
+idx:240,divloss:3.6885,disloss:49.6840,clsloss:0.4483
+idx:250,divloss:3.7541,disloss:44.3851,clsloss:0.2262
+idx:260,divloss:3.7549,disloss:58.6792,clsloss:0.7650
+idx:270,divloss:3.7487,disloss:53.8387,clsloss:0.5547
+idx:280,divloss:3.7223,disloss:43.0644,clsloss:0.3113
+idx:290,divloss:3.7990,disloss:55.7314,clsloss:0.2821
+idx:300,divloss:3.7792,disloss:47.0325,clsloss:0.2695
+idx:310,divloss:3.7516,disloss:64.2724,clsloss:1.1220
+idx:320,divloss:3.8355,disloss:51.0969,clsloss:0.2619
+idx:330,divloss:3.7288,disloss:50.6380,clsloss:0.4934
+idx:340,divloss:3.6869,disloss:44.0302,clsloss:0.2892
+idx:350,divloss:3.6580,disloss:52.9056,clsloss:0.7226
+idx:360,divloss:3.6692,disloss:44.7105,clsloss:0.3479
+idx:370,divloss:3.7733,disloss:61.7657,clsloss:0.6287
+idx:380,divloss:3.6353,disloss:44.3771,clsloss:0.2187
+idx:390,divloss:3.6014,disloss:48.9768,clsloss:0.6239
+idx:400,divloss:3.7072,disloss:45.2605,clsloss:0.4945
+idx:410,divloss:3.7934,disloss:51.6720,clsloss:0.8707
+idx:420,divloss:3.9349,disloss:62.6190,clsloss:0.5895
+idx:430,divloss:3.5933,disloss:54.8146,clsloss:0.5881
+idx:440,divloss:3.7656,disloss:42.3364,clsloss:0.4745
+idx:450,divloss:3.9669,disloss:47.4143,clsloss:0.2662
+idx:460,divloss:3.7482,disloss:44.5422,clsloss:0.3084
+idx:470,divloss:3.7832,disloss:49.0790,clsloss:0.4990
+idx:480,divloss:3.8300,disloss:46.8282,clsloss:0.5946
+idx:490,divloss:3.7335,disloss:56.0909,clsloss:0.6017
+idx:500,divloss:3.6313,disloss:49.5681,clsloss:0.2259
+idx:510,divloss:3.7393,disloss:50.7822,clsloss:0.5072
+idx:520,divloss:3.6694,disloss:62.7714,clsloss:0.8076
+idx:530,divloss:3.5876,disloss:55.7354,clsloss:0.4887
+idx:540,divloss:3.7402,disloss:62.8796,clsloss:0.6907
+idx:550,divloss:3.7713,disloss:56.3637,clsloss:0.6050
+idx:560,divloss:3.8180,disloss:58.0226,clsloss:0.7846
+idx:570,divloss:3.6371,disloss:51.6976,clsloss:0.6532
+idx:580,divloss:3.6683,disloss:45.6817,clsloss:0.5903
+train,train_loss:127.76074384269067,train_accuracy:0.9908801696712619
+epoch:12
+idx:0,divloss:3.5531,disloss:41.0678,clsloss:0.5029
+idx:10,divloss:3.7026,disloss:54.3160,clsloss:0.5170
+idx:20,divloss:3.7749,disloss:57.5251,clsloss:0.4584
+idx:30,divloss:3.7475,disloss:48.4739,clsloss:0.7798
+idx:40,divloss:3.7717,disloss:46.3339,clsloss:0.4464
+idx:50,divloss:3.7139,disloss:55.3929,clsloss:0.7654
+idx:60,divloss:3.7877,disloss:40.3513,clsloss:0.2528
+idx:70,divloss:3.5626,disloss:42.1441,clsloss:0.3564
+idx:80,divloss:3.7535,disloss:45.5825,clsloss:0.3323
+idx:90,divloss:3.6439,disloss:50.0420,clsloss:0.3831
+idx:100,divloss:3.7522,disloss:61.8684,clsloss:0.7257
+idx:110,divloss:3.6978,disloss:50.2369,clsloss:0.3905
+idx:120,divloss:3.6607,disloss:48.8457,clsloss:0.4656
+idx:130,divloss:3.5928,disloss:49.1170,clsloss:0.8581
+idx:140,divloss:3.8593,disloss:50.4893,clsloss:0.2921
+idx:150,divloss:3.6697,disloss:41.6024,clsloss:0.2422
+idx:160,divloss:3.7179,disloss:52.9096,clsloss:0.4258
+idx:170,divloss:3.7140,disloss:63.9536,clsloss:0.6136
+idx:180,divloss:3.6271,disloss:39.5859,clsloss:0.8248
+idx:190,divloss:3.6938,disloss:45.6421,clsloss:0.4813
+idx:200,divloss:3.6877,disloss:44.8961,clsloss:0.5062
+idx:210,divloss:3.7885,disloss:49.8797,clsloss:0.3394
+idx:220,divloss:3.7336,disloss:51.8714,clsloss:0.6022
+idx:230,divloss:3.6942,disloss:42.1319,clsloss:0.5311
+idx:240,divloss:3.6022,disloss:46.6836,clsloss:0.4892
+idx:250,divloss:3.7314,disloss:50.4717,clsloss:0.3499
+idx:260,divloss:3.7058,disloss:45.7855,clsloss:0.8657
+idx:270,divloss:3.6030,disloss:41.4248,clsloss:0.2736
+idx:280,divloss:3.6481,disloss:43.9460,clsloss:0.4536
+idx:290,divloss:3.7095,disloss:51.4399,clsloss:0.5736
+idx:300,divloss:3.7446,disloss:51.6759,clsloss:0.6707
+idx:310,divloss:3.6340,disloss:53.1275,clsloss:0.4576
+idx:320,divloss:3.6801,disloss:53.8593,clsloss:0.3182
+idx:330,divloss:3.7122,disloss:44.5433,clsloss:0.3836
+idx:340,divloss:3.6270,disloss:52.0582,clsloss:0.8827
+idx:350,divloss:3.8261,disloss:45.5265,clsloss:0.3768
+idx:360,divloss:3.8424,disloss:46.4580,clsloss:0.4013
+idx:370,divloss:3.6951,disloss:50.7690,clsloss:0.6945
+idx:380,divloss:3.7681,disloss:60.4951,clsloss:0.3902
+idx:390,divloss:3.7391,disloss:60.1907,clsloss:1.0087
+idx:400,divloss:3.7337,disloss:46.1866,clsloss:0.6796
+idx:410,divloss:3.8380,disloss:53.5774,clsloss:0.5125
+idx:420,divloss:3.6878,disloss:61.3657,clsloss:0.4833
+idx:430,divloss:3.6465,disloss:58.1764,clsloss:0.6792
+idx:440,divloss:3.5556,disloss:52.6013,clsloss:0.9489
+idx:450,divloss:3.7446,disloss:36.3583,clsloss:0.5080
+idx:460,divloss:3.7309,disloss:60.9947,clsloss:0.7911
+idx:470,divloss:3.7923,disloss:53.2449,clsloss:0.3568
+idx:480,divloss:3.7137,disloss:50.3787,clsloss:0.5286
+idx:490,divloss:3.6374,disloss:45.5733,clsloss:0.3307
+idx:500,divloss:3.5560,disloss:47.8841,clsloss:0.6280
+idx:510,divloss:3.6440,disloss:44.9403,clsloss:0.7777
+idx:520,divloss:3.6783,disloss:42.9149,clsloss:0.7998
+idx:530,divloss:3.6080,disloss:47.5639,clsloss:0.5174
+idx:540,divloss:3.7141,disloss:63.8503,clsloss:0.5181
+idx:550,divloss:3.6802,disloss:46.3935,clsloss:0.3474
+idx:560,divloss:3.5264,disloss:39.3728,clsloss:0.5641
+idx:570,divloss:3.6543,disloss:44.3777,clsloss:0.8189
+idx:580,divloss:3.5028,disloss:44.3401,clsloss:0.5569
+train,train_loss:124.67544307385461,train_accuracy:0.9919406150583245
+epoch:13
+idx:0,divloss:3.6576,disloss:53.0801,clsloss:0.4541
+idx:10,divloss:3.6997,disloss:42.2007,clsloss:0.5621
+idx:20,divloss:3.6592,disloss:50.7976,clsloss:0.7073
+idx:30,divloss:3.6520,disloss:37.9732,clsloss:0.8765
+idx:40,divloss:3.6851,disloss:56.4719,clsloss:0.5252
+idx:50,divloss:3.6500,disloss:58.9229,clsloss:0.6267
+idx:60,divloss:3.7564,disloss:56.8059,clsloss:0.3350
+idx:70,divloss:3.6331,disloss:49.0789,clsloss:0.5971
+idx:80,divloss:3.6067,disloss:46.3206,clsloss:0.7194
+idx:90,divloss:3.6986,disloss:58.4501,clsloss:0.5762
+idx:100,divloss:3.7154,disloss:53.9367,clsloss:0.4064
+idx:110,divloss:3.8128,disloss:53.7296,clsloss:0.4576
+idx:120,divloss:3.6519,disloss:42.4252,clsloss:0.4428
+idx:130,divloss:3.7537,disloss:65.2970,clsloss:0.3160
+idx:140,divloss:3.7527,disloss:48.0867,clsloss:0.5733
+idx:150,divloss:3.6948,disloss:49.8430,clsloss:0.5137
+idx:160,divloss:3.7125,disloss:46.7089,clsloss:0.4996
+idx:170,divloss:3.5537,disloss:36.9550,clsloss:0.4132
+idx:180,divloss:3.6318,disloss:46.2536,clsloss:0.6452
+idx:190,divloss:3.7353,disloss:42.8615,clsloss:0.4487
+idx:200,divloss:3.8544,disloss:50.2667,clsloss:0.2085
+idx:210,divloss:3.7166,disloss:47.2183,clsloss:0.6424
+idx:220,divloss:3.7282,disloss:48.4485,clsloss:0.4809
+idx:230,divloss:3.6576,disloss:48.0531,clsloss:0.3533
+idx:240,divloss:3.7088,disloss:50.5912,clsloss:0.6576
+idx:250,divloss:3.6224,disloss:55.9491,clsloss:0.7411
+idx:260,divloss:3.7435,disloss:56.4249,clsloss:0.5777
+idx:270,divloss:3.6675,disloss:62.3727,clsloss:0.4044
+idx:280,divloss:3.7508,disloss:59.6839,clsloss:0.4461
+idx:290,divloss:3.7049,disloss:49.5054,clsloss:0.2822
+idx:300,divloss:3.4944,disloss:51.7439,clsloss:0.4517
+idx:310,divloss:3.6971,disloss:50.9892,clsloss:0.7389
+idx:320,divloss:3.6119,disloss:50.0896,clsloss:0.4288
+idx:330,divloss:3.6492,disloss:49.3364,clsloss:0.3984
+idx:340,divloss:3.6828,disloss:58.9875,clsloss:0.5269
+idx:350,divloss:3.5941,disloss:59.5065,clsloss:0.5226
+idx:360,divloss:3.5584,disloss:36.7813,clsloss:0.4760
+idx:370,divloss:3.6302,disloss:45.5899,clsloss:0.5695
+idx:380,divloss:3.5852,disloss:49.6270,clsloss:0.6459
+idx:390,divloss:3.7616,disloss:47.7917,clsloss:0.3498
+idx:400,divloss:3.7397,disloss:49.8845,clsloss:0.4136
+idx:410,divloss:3.5893,disloss:42.9327,clsloss:0.4948
+idx:420,divloss:3.7640,disloss:38.4563,clsloss:0.2351
+idx:430,divloss:3.6126,disloss:49.2094,clsloss:0.8110
+idx:440,divloss:3.5729,disloss:40.5174,clsloss:0.5119
+idx:450,divloss:3.5675,disloss:47.2017,clsloss:0.3986
+idx:460,divloss:3.5811,disloss:46.9856,clsloss:0.5991
+idx:470,divloss:3.6391,disloss:60.0279,clsloss:0.8541
+idx:480,divloss:3.5714,disloss:48.0855,clsloss:0.5148
+idx:490,divloss:3.4798,disloss:40.9508,clsloss:0.4803
+idx:500,divloss:3.7366,disloss:47.6788,clsloss:0.3514
+idx:510,divloss:3.7412,disloss:49.1210,clsloss:0.9472
+idx:520,divloss:3.5168,disloss:45.7888,clsloss:0.7513
+idx:530,divloss:3.5227,disloss:45.4720,clsloss:0.4179
+idx:540,divloss:3.5805,disloss:47.3360,clsloss:0.5117
+idx:550,divloss:3.7275,disloss:46.8197,clsloss:0.4304
+idx:560,divloss:3.6410,disloss:40.4398,clsloss:0.4291
+idx:570,divloss:3.5662,disloss:45.4791,clsloss:0.3792
+idx:580,divloss:3.7013,disloss:42.4456,clsloss:0.3511
+train,train_loss:122.78884865712311,train_accuracy:0.9938494167550371
+epoch:14
+idx:0,divloss:3.6794,disloss:58.7182,clsloss:0.6398
+idx:10,divloss:3.6367,disloss:46.9164,clsloss:0.5544
+idx:20,divloss:3.5784,disloss:45.0754,clsloss:0.3336
+idx:30,divloss:3.6147,disloss:35.3688,clsloss:0.3830
+idx:40,divloss:3.8020,disloss:51.2962,clsloss:0.2577
+idx:50,divloss:3.5906,disloss:41.9329,clsloss:0.4519
+idx:60,divloss:3.5255,disloss:44.9045,clsloss:0.3907
+idx:70,divloss:3.5776,disloss:41.6545,clsloss:0.5162
+idx:80,divloss:3.6993,disloss:53.4453,clsloss:0.4011
+idx:90,divloss:3.6111,disloss:38.5559,clsloss:0.5764
+idx:100,divloss:3.6594,disloss:65.2634,clsloss:0.8210
+idx:110,divloss:3.5367,disloss:46.1584,clsloss:0.3822
+idx:120,divloss:3.5829,disloss:41.0931,clsloss:0.4658
+idx:130,divloss:3.5217,disloss:47.9150,clsloss:0.5971
+idx:140,divloss:3.5047,disloss:49.2299,clsloss:0.4863
+idx:150,divloss:3.6685,disloss:55.1976,clsloss:0.6151
+idx:160,divloss:3.4777,disloss:39.4529,clsloss:0.5540
+idx:170,divloss:3.5602,disloss:51.0209,clsloss:0.6571
+idx:180,divloss:3.7171,disloss:50.7485,clsloss:0.5254
+idx:190,divloss:3.6317,disloss:50.4079,clsloss:0.4005
+idx:200,divloss:3.7048,disloss:53.4816,clsloss:0.2879
+idx:210,divloss:3.7186,disloss:56.2833,clsloss:0.3876
+idx:220,divloss:3.6036,disloss:51.1686,clsloss:0.4944
+idx:230,divloss:3.8007,disloss:54.1615,clsloss:0.4886
+idx:240,divloss:3.5817,disloss:43.7499,clsloss:0.5178
+idx:250,divloss:3.5463,disloss:41.1801,clsloss:0.4137
+idx:260,divloss:3.4907,disloss:45.9653,clsloss:0.6530
+idx:270,divloss:3.6005,disloss:45.7627,clsloss:0.3774
+idx:280,divloss:3.7216,disloss:38.7669,clsloss:0.5694
+idx:290,divloss:3.4351,disloss:41.1286,clsloss:0.5612
+idx:300,divloss:3.5826,disloss:39.7361,clsloss:0.5107
+idx:310,divloss:3.6835,disloss:55.1890,clsloss:0.4413
+idx:320,divloss:3.6373,disloss:54.0988,clsloss:0.5939
+idx:330,divloss:3.7573,disloss:57.6368,clsloss:0.5591
+idx:340,divloss:3.5977,disloss:55.9784,clsloss:0.5542
+idx:350,divloss:3.6421,disloss:46.4949,clsloss:0.3533
+idx:360,divloss:3.5693,disloss:46.9390,clsloss:0.4616
+idx:370,divloss:3.4373,disloss:38.3666,clsloss:0.3611
+idx:380,divloss:3.5579,disloss:51.8157,clsloss:0.6073
+idx:390,divloss:3.5744,disloss:56.5627,clsloss:0.3583
+idx:400,divloss:3.6126,disloss:47.7919,clsloss:0.6195
+idx:410,divloss:3.5396,disloss:47.0746,clsloss:0.3887
+idx:420,divloss:3.5803,disloss:49.9247,clsloss:0.7549
+idx:430,divloss:3.5630,disloss:43.2149,clsloss:0.4115
+idx:440,divloss:3.5933,disloss:41.5740,clsloss:0.4453
+idx:450,divloss:3.6089,disloss:60.2674,clsloss:0.6292
+idx:460,divloss:3.5703,disloss:37.6069,clsloss:0.2094
+idx:470,divloss:3.5223,disloss:42.8689,clsloss:0.2602
+idx:480,divloss:3.6396,disloss:43.6041,clsloss:0.4624
+idx:490,divloss:3.4955,disloss:43.4346,clsloss:0.4418
+idx:500,divloss:3.5263,disloss:49.3528,clsloss:0.6634
+idx:510,divloss:3.6037,disloss:42.0336,clsloss:0.5689
+idx:520,divloss:3.6180,disloss:44.2703,clsloss:0.5869
+idx:530,divloss:3.5393,disloss:47.6560,clsloss:0.9567
+idx:540,divloss:3.6225,disloss:54.9091,clsloss:0.7753
+idx:550,divloss:3.4642,disloss:43.8877,clsloss:0.1727
+idx:560,divloss:3.6749,disloss:63.1897,clsloss:0.4793
+idx:570,divloss:3.6240,disloss:46.4923,clsloss:0.7227
+idx:580,divloss:3.5434,disloss:44.9761,clsloss:0.3135
+train,train_loss:120.34173455965721,train_accuracy:0.9918345705196182
+epoch:15
+idx:0,divloss:3.5752,disloss:50.0532,clsloss:0.5874
+idx:10,divloss:3.5555,disloss:44.6308,clsloss:0.1931
+idx:20,divloss:3.4809,disloss:41.3685,clsloss:0.5583
+idx:30,divloss:3.5775,disloss:45.5085,clsloss:0.6844
+idx:40,divloss:3.5340,disloss:35.3852,clsloss:0.5751
+idx:50,divloss:3.5942,disloss:46.4292,clsloss:0.4656
+idx:60,divloss:3.5058,disloss:43.6588,clsloss:0.2962
+idx:70,divloss:3.4354,disloss:46.4263,clsloss:0.4786
+idx:80,divloss:3.4898,disloss:45.6956,clsloss:0.4061
+idx:90,divloss:3.5803,disloss:58.6251,clsloss:0.4713
+idx:100,divloss:3.6312,disloss:44.1000,clsloss:0.4235
+idx:110,divloss:3.6256,disloss:48.0371,clsloss:0.5703
+idx:120,divloss:3.4098,disloss:40.4214,clsloss:0.3947
+idx:130,divloss:3.5238,disloss:50.1133,clsloss:0.4271
+idx:140,divloss:3.4988,disloss:44.1304,clsloss:0.3502
+idx:150,divloss:3.4671,disloss:37.2517,clsloss:0.2224
+idx:160,divloss:3.7132,disloss:59.7982,clsloss:0.5032
+idx:170,divloss:3.7099,disloss:58.7414,clsloss:0.6718
+idx:180,divloss:3.5343,disloss:40.5498,clsloss:0.5710
+idx:190,divloss:3.4923,disloss:49.0194,clsloss:0.7848
+idx:200,divloss:3.4546,disloss:45.2683,clsloss:0.3872
+idx:210,divloss:3.5637,disloss:45.6932,clsloss:0.8335
+idx:220,divloss:3.5722,disloss:52.9090,clsloss:0.3446
+idx:230,divloss:3.4850,disloss:49.3596,clsloss:0.3794
+idx:240,divloss:3.5334,disloss:38.0688,clsloss:0.3417
+idx:250,divloss:3.6369,disloss:45.9342,clsloss:0.4041
+idx:260,divloss:3.5302,disloss:48.1057,clsloss:0.6315
+idx:270,divloss:3.4215,disloss:44.0419,clsloss:0.5665
+idx:280,divloss:3.6325,disloss:41.4148,clsloss:0.4185
+idx:290,divloss:3.5123,disloss:54.1584,clsloss:0.5612
+idx:300,divloss:3.4623,disloss:44.1221,clsloss:0.4200
+idx:310,divloss:3.5586,disloss:57.4910,clsloss:0.6027
+idx:320,divloss:3.4825,disloss:39.3796,clsloss:0.4196
+idx:330,divloss:3.4719,disloss:42.4521,clsloss:0.3964
+idx:340,divloss:3.5598,disloss:45.2712,clsloss:0.5767
+idx:350,divloss:3.4805,disloss:51.4647,clsloss:0.5338
+idx:360,divloss:3.5029,disloss:46.1505,clsloss:0.3775
+idx:370,divloss:3.5330,disloss:44.9792,clsloss:0.4488
+idx:380,divloss:3.4807,disloss:49.6724,clsloss:0.6775
+idx:390,divloss:3.4562,disloss:43.7844,clsloss:0.4030
+idx:400,divloss:3.5303,disloss:43.2073,clsloss:0.2923
+idx:410,divloss:3.4653,disloss:45.8251,clsloss:0.9211
+idx:420,divloss:3.4729,disloss:50.8939,clsloss:0.5417
+idx:430,divloss:3.4699,disloss:47.7114,clsloss:0.3504
+idx:440,divloss:3.4503,disloss:42.4605,clsloss:0.3386
+idx:450,divloss:3.5034,disloss:42.9534,clsloss:0.7083
+idx:460,divloss:3.5037,disloss:51.8123,clsloss:0.5170
+idx:470,divloss:3.6719,disloss:57.8123,clsloss:0.5675
+idx:480,divloss:3.4998,disloss:63.4060,clsloss:0.8181
+idx:490,divloss:3.4134,disloss:43.2872,clsloss:0.3065
+idx:500,divloss:3.4610,disloss:41.8777,clsloss:0.4210
+idx:510,divloss:3.6320,disloss:52.6181,clsloss:0.4410
+idx:520,divloss:3.4975,disloss:54.4008,clsloss:0.3585
+idx:530,divloss:3.4903,disloss:44.5157,clsloss:0.3794
+idx:540,divloss:3.5589,disloss:49.8009,clsloss:0.3935
+idx:550,divloss:3.4921,disloss:42.0017,clsloss:0.6689
+idx:560,divloss:3.5280,disloss:49.0632,clsloss:0.3291
+idx:570,divloss:3.3899,disloss:52.1698,clsloss:0.7342
+idx:580,divloss:3.6245,disloss:52.5529,clsloss:0.3651
+train,train_loss:118.14470728211484,train_accuracy:0.9932131495227996
+idx:0,divloss:3.4860,disloss:44.5410,clsloss:0.6267
+idx:10,divloss:3.4172,disloss:43.0120,clsloss:0.9280
+idx:20,divloss:3.5788,disloss:44.3303,clsloss:1.2142
+idx:30,divloss:3.5313,disloss:45.3102,clsloss:1.5922
+idx:40,divloss:3.4358,disloss:49.9433,clsloss:1.8340
+idx:50,divloss:3.4999,disloss:41.1224,clsloss:1.3451
+idx:60,divloss:3.4943,disloss:44.6110,clsloss:1.2954
+idx:70,divloss:3.5950,disloss:56.2364,clsloss:1.8649
+idx:80,divloss:3.4555,disloss:39.1249,clsloss:1.2962
+idx:90,divloss:3.4409,disloss:48.6312,clsloss:1.4418
+idx:100,divloss:3.4918,disloss:58.7962,clsloss:1.2527
+idx:110,divloss:3.5144,disloss:38.8939,clsloss:1.2975
+idx:120,divloss:3.3158,disloss:37.9518,clsloss:1.6164
+idx:130,divloss:3.3920,disloss:38.4979,clsloss:0.7116
+idx:140,divloss:3.4589,disloss:61.3295,clsloss:1.5558
+val,val_loss:470.9822790300524,val_accuracy:0.7663273960983885
+epoch:16
+idx:0,divloss:3.3829,disloss:42.7658,clsloss:0.4687
+idx:10,divloss:3.5241,disloss:52.2044,clsloss:0.8143
+idx:20,divloss:3.5103,disloss:47.9686,clsloss:0.3602
+idx:30,divloss:3.3770,disloss:43.7067,clsloss:0.5354
+idx:40,divloss:3.4612,disloss:46.7141,clsloss:0.5962
+idx:50,divloss:3.3812,disloss:41.0738,clsloss:0.6342
+idx:60,divloss:3.5800,disloss:49.1580,clsloss:0.3833
+idx:70,divloss:3.4396,disloss:49.2487,clsloss:0.6173
+idx:80,divloss:3.4443,disloss:34.8454,clsloss:0.2845
+idx:90,divloss:3.5025,disloss:53.0487,clsloss:0.4645
+idx:100,divloss:3.5759,disloss:51.8525,clsloss:0.5597
+idx:110,divloss:3.4213,disloss:41.4677,clsloss:0.5034
+idx:120,divloss:3.4720,disloss:44.2057,clsloss:0.4240
+idx:130,divloss:3.4398,disloss:42.6984,clsloss:0.4677
+idx:140,divloss:3.4952,disloss:45.7119,clsloss:0.4663
+idx:150,divloss:3.5514,disloss:41.5751,clsloss:0.3723
+idx:160,divloss:3.4383,disloss:36.8969,clsloss:0.3474
+idx:170,divloss:3.3703,disloss:39.4851,clsloss:0.4429
+idx:180,divloss:3.5618,disloss:43.8312,clsloss:0.4313
+idx:190,divloss:3.5205,disloss:51.3013,clsloss:0.4212
+idx:200,divloss:3.4421,disloss:45.6365,clsloss:0.2830
+idx:210,divloss:3.4990,disloss:54.1264,clsloss:0.7271
+idx:220,divloss:3.5592,disloss:54.9270,clsloss:0.7687
+idx:230,divloss:3.6084,disloss:46.5914,clsloss:0.5797
+idx:240,divloss:3.5360,disloss:40.9370,clsloss:0.5941
+idx:250,divloss:3.6475,disloss:51.1015,clsloss:0.4897
+idx:260,divloss:3.5980,disloss:50.1072,clsloss:0.4002
+idx:270,divloss:3.6624,disloss:59.0521,clsloss:0.3797
+idx:280,divloss:3.2714,disloss:36.4467,clsloss:0.4075
+idx:290,divloss:3.6013,disloss:50.5993,clsloss:0.4298
+idx:300,divloss:3.6372,disloss:50.5033,clsloss:0.6202
+idx:310,divloss:3.5417,disloss:39.4913,clsloss:0.2832
+idx:320,divloss:3.4480,disloss:38.9185,clsloss:0.4035
+idx:330,divloss:3.5444,disloss:43.7876,clsloss:0.3914
+idx:340,divloss:3.4105,disloss:46.1469,clsloss:0.3284
+idx:350,divloss:3.4180,disloss:36.7760,clsloss:0.5626
+idx:360,divloss:3.5759,disloss:45.8187,clsloss:0.4728
+idx:370,divloss:3.5715,disloss:40.0902,clsloss:0.2014
+idx:380,divloss:3.4009,disloss:38.6813,clsloss:0.4432
+idx:390,divloss:3.4810,disloss:43.7510,clsloss:0.3051
+idx:400,divloss:3.4016,disloss:42.1106,clsloss:0.3882
+idx:410,divloss:3.5063,disloss:45.8368,clsloss:0.2758
+idx:420,divloss:3.4562,disloss:44.9902,clsloss:0.2492
+idx:430,divloss:3.6156,disloss:46.7828,clsloss:0.4257
+idx:440,divloss:3.5645,disloss:49.4728,clsloss:0.3051
+idx:450,divloss:3.5421,disloss:37.7352,clsloss:0.1672
+idx:460,divloss:3.5141,disloss:50.3359,clsloss:0.7396
+idx:470,divloss:3.5128,disloss:51.0522,clsloss:0.4275
+idx:480,divloss:3.4993,disloss:42.9762,clsloss:0.4504
+idx:490,divloss:3.5243,disloss:48.9484,clsloss:0.4770
+idx:500,divloss:3.5971,disloss:47.1466,clsloss:0.3284
+idx:510,divloss:3.6005,disloss:50.2960,clsloss:0.2894
+idx:520,divloss:3.6303,disloss:49.3596,clsloss:0.3672
+idx:530,divloss:3.5367,disloss:45.4531,clsloss:0.4861
+idx:540,divloss:3.4199,disloss:44.2754,clsloss:0.3097
+idx:550,divloss:3.4446,disloss:46.2434,clsloss:0.4679
+idx:560,divloss:3.5618,disloss:43.6696,clsloss:0.2586
+idx:570,divloss:3.5263,disloss:45.7345,clsloss:0.5131
+idx:580,divloss:3.5789,disloss:59.3415,clsloss:0.2951
+train,train_loss:117.89877479682535,train_accuracy:0.9955461293743372
+epoch:17
+idx:0,divloss:3.5058,disloss:40.7632,clsloss:0.4460
+idx:10,divloss:3.4821,disloss:52.1421,clsloss:0.6017
+idx:20,divloss:3.5599,disloss:47.9542,clsloss:0.5236
+idx:30,divloss:3.5201,disloss:43.8844,clsloss:0.3411
+idx:40,divloss:3.4339,disloss:42.2370,clsloss:0.4011
+idx:50,divloss:3.5095,disloss:42.0921,clsloss:0.7972
+idx:60,divloss:3.4820,disloss:43.9585,clsloss:0.5806
+idx:70,divloss:3.3978,disloss:43.1288,clsloss:0.3044
+idx:80,divloss:3.4980,disloss:38.2468,clsloss:0.5463
+idx:90,divloss:3.5041,disloss:41.2822,clsloss:0.6118
+idx:100,divloss:3.5994,disloss:53.1240,clsloss:0.6663
+idx:110,divloss:3.5640,disloss:37.3446,clsloss:0.5072
+idx:120,divloss:3.5217,disloss:49.1531,clsloss:0.8608
+idx:130,divloss:3.4851,disloss:43.2365,clsloss:0.3026
+idx:140,divloss:3.7239,disloss:58.8779,clsloss:0.6009
+idx:150,divloss:3.4082,disloss:43.5568,clsloss:0.3527
+idx:160,divloss:3.4608,disloss:45.9691,clsloss:0.7109
+idx:170,divloss:3.5328,disloss:43.9233,clsloss:0.4191
+idx:180,divloss:3.5155,disloss:55.2779,clsloss:0.6203
+idx:190,divloss:3.4871,disloss:40.8569,clsloss:0.5014
+idx:200,divloss:3.5461,disloss:44.4985,clsloss:0.8151
+idx:210,divloss:3.5610,disloss:51.1942,clsloss:0.4614
+idx:220,divloss:3.4936,disloss:42.4680,clsloss:0.5540
+idx:230,divloss:3.5657,disloss:49.2828,clsloss:0.6293
+idx:240,divloss:3.4746,disloss:49.3363,clsloss:0.2935
+idx:250,divloss:3.3921,disloss:44.3705,clsloss:0.4563
+idx:260,divloss:3.4242,disloss:43.6360,clsloss:0.2106
+idx:270,divloss:3.4318,disloss:46.7240,clsloss:0.4664
+idx:280,divloss:3.4965,disloss:47.2599,clsloss:0.3640
+idx:290,divloss:3.5574,disloss:49.6787,clsloss:0.4156
+idx:300,divloss:3.5889,disloss:53.6696,clsloss:0.4612
+idx:310,divloss:3.4908,disloss:64.2588,clsloss:0.8497
+idx:320,divloss:3.5084,disloss:46.4017,clsloss:0.2304
+idx:330,divloss:3.5264,disloss:54.8763,clsloss:0.5435
+idx:340,divloss:3.3681,disloss:38.9424,clsloss:0.4143
+idx:350,divloss:3.4636,disloss:37.1931,clsloss:0.3954
+idx:360,divloss:3.6135,disloss:48.4213,clsloss:0.5700
+idx:370,divloss:3.6307,disloss:52.7571,clsloss:0.2662
+idx:380,divloss:3.5103,disloss:53.9137,clsloss:0.3707
+idx:390,divloss:3.3831,disloss:41.2011,clsloss:0.4715
+idx:400,divloss:3.4616,disloss:49.2082,clsloss:0.8054
+idx:410,divloss:3.4613,disloss:41.0857,clsloss:0.4602
+idx:420,divloss:3.4311,disloss:49.6623,clsloss:0.5641
+idx:430,divloss:3.5114,disloss:43.5980,clsloss:0.4325
+idx:440,divloss:3.3816,disloss:42.5807,clsloss:0.2434
+idx:450,divloss:3.4664,disloss:43.4884,clsloss:0.5216
+idx:460,divloss:3.4494,disloss:50.2359,clsloss:0.2894
+idx:470,divloss:3.3903,disloss:45.1328,clsloss:0.5663
+idx:480,divloss:3.5048,disloss:49.9785,clsloss:0.3363
+idx:490,divloss:3.4363,disloss:38.2284,clsloss:0.4559
+idx:500,divloss:3.4289,disloss:41.7063,clsloss:0.4416
+idx:510,divloss:3.4756,disloss:47.1625,clsloss:0.2434
+idx:520,divloss:3.4943,disloss:48.0230,clsloss:0.5292
+idx:530,divloss:3.4049,disloss:36.9487,clsloss:0.3619
+idx:540,divloss:3.5381,disloss:43.1109,clsloss:0.4923
+idx:550,divloss:3.4177,disloss:39.7954,clsloss:0.1831
+idx:560,divloss:3.4746,disloss:41.3252,clsloss:0.1864
+idx:570,divloss:3.4222,disloss:40.8852,clsloss:0.3406
+idx:580,divloss:3.5798,disloss:52.3949,clsloss:0.3456
+train,train_loss:115.97245341155488,train_accuracy:0.9955461293743372
+epoch:18
+idx:0,divloss:3.5158,disloss:43.1652,clsloss:0.6647
+idx:10,divloss:3.4129,disloss:45.0648,clsloss:0.4826
+idx:20,divloss:3.4799,disloss:44.9648,clsloss:0.4627
+idx:30,divloss:3.4460,disloss:47.5004,clsloss:0.7804
+idx:40,divloss:3.3888,disloss:45.1332,clsloss:0.4140
+idx:50,divloss:3.5850,disloss:40.2952,clsloss:0.5124
+idx:60,divloss:3.3844,disloss:46.4665,clsloss:0.2982
+idx:70,divloss:3.3601,disloss:40.1411,clsloss:0.3599
+idx:80,divloss:3.4944,disloss:38.3661,clsloss:0.3666
+idx:90,divloss:3.4168,disloss:40.6625,clsloss:0.5492
+idx:100,divloss:3.3949,disloss:47.3742,clsloss:0.5664
+idx:110,divloss:3.3910,disloss:42.6144,clsloss:0.6905
+idx:120,divloss:3.4333,disloss:46.6393,clsloss:0.5689
+idx:130,divloss:3.3612,disloss:48.3152,clsloss:0.6561
+idx:140,divloss:3.6434,disloss:44.9420,clsloss:0.5411
+idx:150,divloss:3.4854,disloss:49.7486,clsloss:0.3633
+idx:160,divloss:3.3109,disloss:47.8324,clsloss:0.5185
+idx:170,divloss:3.5513,disloss:55.7731,clsloss:0.3308
+idx:180,divloss:3.5375,disloss:49.9343,clsloss:0.3633
+idx:190,divloss:3.4492,disloss:39.5519,clsloss:0.7731
+idx:200,divloss:3.4576,disloss:46.4167,clsloss:0.4958
+idx:210,divloss:3.4470,disloss:52.7527,clsloss:0.4150
+idx:220,divloss:3.4895,disloss:48.1900,clsloss:0.4571
+idx:230,divloss:3.5047,disloss:47.8093,clsloss:0.3481
+idx:240,divloss:3.3957,disloss:44.1094,clsloss:0.6307
+idx:250,divloss:3.4126,disloss:50.8165,clsloss:0.3735
+idx:260,divloss:3.5428,disloss:51.2372,clsloss:0.4971
+idx:270,divloss:3.5215,disloss:45.1824,clsloss:0.5054
+idx:280,divloss:3.3252,disloss:33.6208,clsloss:0.4788
+idx:290,divloss:3.3327,disloss:49.1173,clsloss:0.7889
+idx:300,divloss:3.5410,disloss:45.5277,clsloss:0.3655
+idx:310,divloss:3.5265,disloss:43.4162,clsloss:0.9455
+idx:320,divloss:3.3797,disloss:42.9509,clsloss:0.7949
+idx:330,divloss:3.5594,disloss:44.7609,clsloss:0.8074
+idx:340,divloss:3.4279,disloss:37.7349,clsloss:0.2713
+idx:350,divloss:3.4332,disloss:36.6189,clsloss:0.3886
+idx:360,divloss:3.3623,disloss:35.0026,clsloss:0.5209
+idx:370,divloss:3.4283,disloss:36.9830,clsloss:0.4521
+idx:380,divloss:3.3711,disloss:42.4394,clsloss:0.7413
+idx:390,divloss:3.4992,disloss:46.1568,clsloss:1.2370
+idx:400,divloss:3.3785,disloss:40.3228,clsloss:0.2322
+idx:410,divloss:3.3046,disloss:38.9244,clsloss:0.2404
+idx:420,divloss:3.4628,disloss:44.2062,clsloss:0.3137
+idx:430,divloss:3.3924,disloss:42.4994,clsloss:0.4383
+idx:440,divloss:3.4849,disloss:34.0824,clsloss:0.4069
+idx:450,divloss:3.3911,disloss:42.7205,clsloss:0.5771
+idx:460,divloss:3.4317,disloss:43.1311,clsloss:0.5547
+idx:470,divloss:3.3573,disloss:43.9999,clsloss:0.8091
+idx:480,divloss:3.3824,disloss:36.8867,clsloss:0.3128
+idx:490,divloss:3.3053,disloss:44.2182,clsloss:0.6589
+idx:500,divloss:3.4745,disloss:39.6042,clsloss:0.5277
+idx:510,divloss:3.5643,disloss:47.9405,clsloss:0.6544
+idx:520,divloss:3.4340,disloss:43.0351,clsloss:0.4176
+idx:530,divloss:3.4052,disloss:41.6648,clsloss:0.4995
+idx:540,divloss:3.5507,disloss:46.7779,clsloss:0.6268
+idx:550,divloss:3.4185,disloss:44.5275,clsloss:0.5655
+idx:560,divloss:3.3482,disloss:37.6619,clsloss:0.3523
+idx:570,divloss:3.3813,disloss:31.2717,clsloss:0.3110
+idx:580,divloss:3.3133,disloss:40.4352,clsloss:0.3821
+train,train_loss:113.1614387512207,train_accuracy:0.9926829268292683
+epoch:19
+idx:0,divloss:3.5574,disloss:42.2947,clsloss:0.2724
+idx:10,divloss:3.3809,disloss:39.5345,clsloss:0.3846
+idx:20,divloss:3.4756,disloss:43.5054,clsloss:0.2811
+idx:30,divloss:3.3920,disloss:36.4598,clsloss:0.4514
+idx:40,divloss:3.3379,disloss:39.5033,clsloss:0.5149
+idx:50,divloss:3.4093,disloss:44.9932,clsloss:0.5691
+idx:60,divloss:3.4165,disloss:40.7617,clsloss:0.2401
+idx:70,divloss:3.4221,disloss:47.6811,clsloss:0.5089
+idx:80,divloss:3.2745,disloss:38.5573,clsloss:0.6381
+idx:90,divloss:3.4289,disloss:47.2872,clsloss:0.7482
+idx:100,divloss:3.5070,disloss:46.2629,clsloss:0.5453
+idx:110,divloss:3.5433,disloss:49.7984,clsloss:0.4838
+idx:120,divloss:3.4391,disloss:34.7356,clsloss:0.4179
+idx:130,divloss:3.6182,disloss:48.4647,clsloss:0.4192
+idx:140,divloss:3.3648,disloss:47.1757,clsloss:0.8355
+idx:150,divloss:3.2673,disloss:42.2286,clsloss:0.5355
+idx:160,divloss:3.5093,disloss:40.2998,clsloss:0.5492
+idx:170,divloss:3.4201,disloss:41.6155,clsloss:0.7583
+idx:180,divloss:3.3831,disloss:38.9186,clsloss:0.4827
+idx:190,divloss:3.3792,disloss:37.6872,clsloss:0.3944
+idx:200,divloss:3.5029,disloss:40.5162,clsloss:0.4934
+idx:210,divloss:3.3350,disloss:36.7817,clsloss:0.3149
+idx:220,divloss:3.4110,disloss:46.6599,clsloss:0.6494
+idx:230,divloss:3.5327,disloss:46.7873,clsloss:0.5815
+idx:240,divloss:3.3535,disloss:36.3605,clsloss:0.7892
+idx:250,divloss:3.3690,disloss:43.8867,clsloss:0.3445
+idx:260,divloss:3.3319,disloss:36.8572,clsloss:0.2989
+idx:270,divloss:3.5572,disloss:39.4175,clsloss:0.2088
+idx:280,divloss:3.2788,disloss:40.7688,clsloss:0.5769
+idx:290,divloss:3.4106,disloss:39.4672,clsloss:0.3390
+idx:300,divloss:3.4235,disloss:45.7173,clsloss:0.6429
+idx:310,divloss:3.3574,disloss:42.0043,clsloss:0.4423
+idx:320,divloss:3.3939,disloss:38.4408,clsloss:0.6506
+idx:330,divloss:3.3663,disloss:39.5463,clsloss:0.4388
+idx:340,divloss:3.3835,disloss:44.7274,clsloss:0.2655
+idx:350,divloss:3.2612,disloss:39.1312,clsloss:0.4012
+idx:360,divloss:3.3308,disloss:41.2060,clsloss:0.3265
+idx:370,divloss:3.4551,disloss:44.7742,clsloss:0.4577
+idx:380,divloss:3.4684,disloss:47.1552,clsloss:0.4494
+idx:390,divloss:3.3183,disloss:43.6542,clsloss:0.5592
+idx:400,divloss:3.4168,disloss:37.4527,clsloss:0.3804
+idx:410,divloss:3.4783,disloss:47.2853,clsloss:0.7083
+idx:420,divloss:3.3679,disloss:50.1003,clsloss:0.4557
+idx:430,divloss:3.4379,disloss:45.9528,clsloss:0.4550
+idx:440,divloss:3.4474,disloss:43.8953,clsloss:0.4381
+idx:450,divloss:3.4022,disloss:41.4737,clsloss:0.2828
+idx:460,divloss:3.4459,disloss:46.3455,clsloss:0.8820
+idx:470,divloss:3.4052,disloss:36.2029,clsloss:0.4659
+idx:480,divloss:3.3177,disloss:47.3576,clsloss:0.6195
+idx:490,divloss:3.3602,disloss:47.9352,clsloss:0.7345
+idx:500,divloss:3.3446,disloss:39.6438,clsloss:0.4911
+idx:510,divloss:3.5712,disloss:48.0591,clsloss:0.3709
+idx:520,divloss:3.4658,disloss:40.1461,clsloss:0.4580
+idx:530,divloss:3.3857,disloss:40.8138,clsloss:0.2792
+idx:540,divloss:3.4570,disloss:51.1323,clsloss:0.7899
+idx:550,divloss:3.6272,disloss:54.1610,clsloss:0.2406
+idx:560,divloss:3.5437,disloss:53.2122,clsloss:0.2928
+idx:570,divloss:3.2956,disloss:44.2959,clsloss:0.7554
+idx:580,divloss:3.4649,disloss:50.7904,clsloss:0.4318
+train,train_loss:112.53580657183113,train_accuracy:0.9961823966065748
+epoch:20
+idx:0,divloss:3.3561,disloss:45.1924,clsloss:0.4156
+idx:10,divloss:3.3581,disloss:45.6527,clsloss:0.3538
+idx:20,divloss:3.4272,disloss:42.8215,clsloss:0.5890
+idx:30,divloss:3.3212,disloss:46.4453,clsloss:0.3862
+idx:40,divloss:3.3363,disloss:36.7147,clsloss:0.4233
+idx:50,divloss:3.3659,disloss:35.3038,clsloss:0.3356
+idx:60,divloss:3.3109,disloss:38.0823,clsloss:0.8509
+idx:70,divloss:3.3913,disloss:42.5802,clsloss:0.3932
+idx:80,divloss:3.3621,disloss:45.4837,clsloss:0.5754
+idx:90,divloss:3.3963,disloss:35.4237,clsloss:0.3256
+idx:100,divloss:3.3249,disloss:34.4129,clsloss:0.5122
+idx:110,divloss:3.4088,disloss:36.9357,clsloss:0.8199
+idx:120,divloss:3.2338,disloss:33.0598,clsloss:0.4908
+idx:130,divloss:3.4157,disloss:43.3426,clsloss:0.7727
+idx:140,divloss:3.4143,disloss:42.7510,clsloss:0.2931
+idx:150,divloss:3.4447,disloss:46.2831,clsloss:0.4908
+idx:160,divloss:3.3701,disloss:41.8739,clsloss:0.6570
+idx:170,divloss:3.3923,disloss:36.9163,clsloss:0.4363
+idx:180,divloss:3.3855,disloss:42.3540,clsloss:0.3968
+idx:190,divloss:3.4193,disloss:42.5416,clsloss:0.4444
+idx:200,divloss:3.5727,disloss:58.2575,clsloss:1.2675
+idx:210,divloss:3.4137,disloss:45.9651,clsloss:0.8867
+idx:220,divloss:3.3217,disloss:40.5939,clsloss:0.5710
+idx:230,divloss:3.3719,disloss:48.7989,clsloss:0.7765
+idx:240,divloss:3.3909,disloss:43.7224,clsloss:0.5985
+idx:250,divloss:3.3771,disloss:35.2812,clsloss:0.5501
+idx:260,divloss:3.2957,disloss:39.6986,clsloss:0.4870
+idx:270,divloss:3.4266,disloss:46.2625,clsloss:0.5463
+idx:280,divloss:3.5064,disloss:55.4954,clsloss:0.5233
+idx:290,divloss:3.4585,disloss:48.8409,clsloss:0.4099
+idx:300,divloss:3.3445,disloss:43.7043,clsloss:0.4240
+idx:310,divloss:3.5183,disloss:45.5885,clsloss:0.4006
+idx:320,divloss:3.3330,disloss:40.8408,clsloss:0.6650
+idx:330,divloss:3.3979,disloss:45.9446,clsloss:0.4077
+idx:340,divloss:3.3648,disloss:37.6679,clsloss:0.6008
+idx:350,divloss:3.4557,disloss:34.7058,clsloss:0.4845
+idx:360,divloss:3.4259,disloss:43.6661,clsloss:0.6509
+idx:370,divloss:3.4444,disloss:46.9986,clsloss:0.3810
+idx:380,divloss:3.4371,disloss:43.0098,clsloss:0.5506
+idx:390,divloss:3.3541,disloss:38.2771,clsloss:0.7836
+idx:400,divloss:3.4465,disloss:43.7728,clsloss:0.3082
+idx:410,divloss:3.4516,disloss:59.0125,clsloss:0.5747
+idx:420,divloss:3.2876,disloss:43.1608,clsloss:0.5572
+idx:430,divloss:3.4166,disloss:38.8893,clsloss:0.4673
+idx:440,divloss:3.3228,disloss:46.5372,clsloss:0.7355
+idx:450,divloss:3.4446,disloss:52.0484,clsloss:0.4333
+idx:460,divloss:3.3227,disloss:45.2664,clsloss:0.9102
+idx:470,divloss:3.4303,disloss:39.9757,clsloss:0.4031
+idx:480,divloss:3.2662,disloss:39.5598,clsloss:0.9575
+idx:490,divloss:3.3621,disloss:44.1706,clsloss:0.5047
+idx:500,divloss:3.2860,disloss:37.0669,clsloss:0.5844
+idx:510,divloss:3.4170,disloss:38.9324,clsloss:0.3588
+idx:520,divloss:3.3013,disloss:40.0304,clsloss:0.5072
+idx:530,divloss:3.4524,disloss:46.2388,clsloss:0.4764
+idx:540,divloss:3.4378,disloss:37.8621,clsloss:0.5428
+idx:550,divloss:3.3654,disloss:39.0089,clsloss:0.5803
+idx:560,divloss:3.3275,disloss:45.1519,clsloss:0.4108
+idx:570,divloss:3.4795,disloss:48.9793,clsloss:0.7281
+idx:580,divloss:3.2624,disloss:39.4353,clsloss:0.4135
+train,train_loss:110.07137780916892,train_accuracy:0.9931071049840933
+idx:0,divloss:3.2622,disloss:34.9612,clsloss:1.2461
+idx:10,divloss:3.3859,disloss:40.4297,clsloss:1.0328
+idx:20,divloss:3.3663,disloss:29.8126,clsloss:2.0255
+idx:30,divloss:3.3854,disloss:34.1938,clsloss:1.3461
+idx:40,divloss:3.3770,disloss:41.2757,clsloss:1.3769
+idx:50,divloss:3.2689,disloss:37.6402,clsloss:1.4345
+idx:60,divloss:3.3136,disloss:40.5581,clsloss:0.8116
+idx:70,divloss:3.2752,disloss:35.3636,clsloss:1.0173
+idx:80,divloss:3.4036,disloss:40.2601,clsloss:1.1638
+idx:90,divloss:3.4443,disloss:48.6692,clsloss:1.3702
+idx:100,divloss:3.2309,disloss:39.6209,clsloss:1.3617
+idx:110,divloss:3.3380,disloss:40.9911,clsloss:1.4040
+idx:120,divloss:3.3283,disloss:43.5812,clsloss:1.3404
+idx:130,divloss:3.4349,disloss:43.5810,clsloss:1.2703
+idx:140,divloss:3.4138,disloss:37.7166,clsloss:1.0712
+val,val_loss:438.7980601852005,val_accuracy:0.7599660729431722
+epoch:21
+idx:0,divloss:3.3911,disloss:41.0020,clsloss:0.6159
+idx:10,divloss:3.3651,disloss:37.0411,clsloss:0.7339
+idx:20,divloss:3.3616,disloss:44.7101,clsloss:0.6631
+idx:30,divloss:3.3348,disloss:38.2936,clsloss:0.5609
+idx:40,divloss:3.3533,disloss:39.4956,clsloss:0.7190
+idx:50,divloss:3.3155,disloss:40.2966,clsloss:0.6882
+idx:60,divloss:3.3628,disloss:44.1151,clsloss:0.4461
+idx:70,divloss:3.2940,disloss:37.4171,clsloss:0.4390
+idx:80,divloss:3.2975,disloss:42.6595,clsloss:0.5087
+idx:90,divloss:3.3606,disloss:47.4959,clsloss:0.6153
+idx:100,divloss:3.2807,disloss:52.1281,clsloss:0.5399
+idx:110,divloss:3.3315,disloss:48.6630,clsloss:0.7594
+idx:120,divloss:3.3964,disloss:48.1619,clsloss:0.5176
+idx:130,divloss:3.3601,disloss:40.9263,clsloss:0.6122
+idx:140,divloss:3.3402,disloss:46.5942,clsloss:0.4068
+idx:150,divloss:3.3383,disloss:45.4301,clsloss:0.4260
+idx:160,divloss:3.3051,disloss:41.8998,clsloss:0.2877
+idx:170,divloss:3.3313,disloss:40.7715,clsloss:0.4233
+idx:180,divloss:3.3511,disloss:45.3434,clsloss:0.3750
+idx:190,divloss:3.2846,disloss:39.8697,clsloss:0.3915
+idx:200,divloss:3.3366,disloss:37.5523,clsloss:0.6180
+idx:210,divloss:3.4001,disloss:47.4130,clsloss:0.3599
+idx:220,divloss:3.2847,disloss:42.9113,clsloss:0.3660
+idx:230,divloss:3.2999,disloss:33.4837,clsloss:0.6976
+idx:240,divloss:3.3386,disloss:39.4590,clsloss:0.3147
+idx:250,divloss:3.4100,disloss:35.0652,clsloss:0.6481
+idx:260,divloss:3.4130,disloss:37.8081,clsloss:0.2410
+idx:270,divloss:3.3296,disloss:37.2253,clsloss:0.2284
+idx:280,divloss:3.2990,disloss:44.1156,clsloss:0.2506
+idx:290,divloss:3.2793,disloss:36.1067,clsloss:0.3189
+idx:300,divloss:3.2977,disloss:36.9612,clsloss:0.5551
+idx:310,divloss:3.5920,disloss:38.3982,clsloss:0.7141
+idx:320,divloss:3.3874,disloss:48.9445,clsloss:0.5312
+idx:330,divloss:3.2787,disloss:38.4482,clsloss:0.8196
+idx:340,divloss:3.5451,disloss:42.9780,clsloss:0.5654
+idx:350,divloss:3.3468,disloss:41.2976,clsloss:0.6678
+idx:360,divloss:3.2832,disloss:36.0781,clsloss:0.4673
+idx:370,divloss:3.2525,disloss:35.7980,clsloss:0.3041
+idx:380,divloss:3.3370,disloss:43.5469,clsloss:0.6504
+idx:390,divloss:3.3467,disloss:39.4390,clsloss:0.9694
+idx:400,divloss:3.3760,disloss:32.4146,clsloss:0.6992
+idx:410,divloss:3.3934,disloss:46.8935,clsloss:0.6561
+idx:420,divloss:3.2248,disloss:31.4472,clsloss:0.2152
+idx:430,divloss:3.3291,disloss:34.7648,clsloss:0.4445
+idx:440,divloss:3.4623,disloss:40.2368,clsloss:0.7718
+idx:450,divloss:3.4211,disloss:44.3557,clsloss:0.6244
+idx:460,divloss:3.3287,disloss:41.9299,clsloss:0.4087
+idx:470,divloss:3.3495,disloss:44.8381,clsloss:0.4208
+idx:480,divloss:3.3520,disloss:40.8414,clsloss:0.6593
+idx:490,divloss:3.4563,disloss:40.9656,clsloss:0.2291
+idx:500,divloss:3.3814,disloss:35.6091,clsloss:0.3780
+idx:510,divloss:3.3932,disloss:44.6655,clsloss:0.7246
+idx:520,divloss:3.3573,disloss:48.5123,clsloss:0.4378
+idx:530,divloss:3.3457,disloss:39.4100,clsloss:0.4239
+idx:540,divloss:3.3357,disloss:43.8764,clsloss:0.4769
+idx:550,divloss:3.3193,disloss:44.3499,clsloss:0.7195
+idx:560,divloss:3.4330,disloss:45.0515,clsloss:0.5261
+idx:570,divloss:3.4002,disloss:39.7190,clsloss:0.4205
+idx:580,divloss:3.3832,disloss:41.5826,clsloss:0.4160
+train,train_loss:109.39564203811904,train_accuracy:0.9956521739130435
+epoch:22
+idx:0,divloss:3.3602,disloss:48.3693,clsloss:0.9835
+idx:10,divloss:3.2996,disloss:45.8881,clsloss:0.6944
+idx:20,divloss:3.3272,disloss:37.6312,clsloss:0.4664
+idx:30,divloss:3.3057,disloss:35.6716,clsloss:0.4381
+idx:40,divloss:3.3135,disloss:37.1620,clsloss:0.3691
+idx:50,divloss:3.2892,disloss:30.5433,clsloss:0.9080
+idx:60,divloss:3.2153,disloss:37.5897,clsloss:0.4261
+idx:70,divloss:3.3871,disloss:43.3051,clsloss:0.3593
+idx:80,divloss:3.4395,disloss:41.2405,clsloss:0.1966
+idx:90,divloss:3.3194,disloss:41.9524,clsloss:0.5865
+idx:100,divloss:3.3778,disloss:45.7079,clsloss:0.6022
+idx:110,divloss:3.3659,disloss:40.6886,clsloss:0.3209
+idx:120,divloss:3.3087,disloss:38.9968,clsloss:0.5936
+idx:130,divloss:3.3184,disloss:47.1654,clsloss:0.6726
+idx:140,divloss:3.3494,disloss:39.1764,clsloss:0.4262
+idx:150,divloss:3.2926,disloss:36.0443,clsloss:0.3163
+idx:160,divloss:3.3975,disloss:42.8132,clsloss:0.4102
+idx:170,divloss:3.3106,disloss:40.9703,clsloss:0.4662
+idx:180,divloss:3.3052,disloss:36.3717,clsloss:0.9369
+idx:190,divloss:3.3235,disloss:44.0060,clsloss:0.3834
+idx:200,divloss:3.3027,disloss:42.4779,clsloss:0.7903
+idx:210,divloss:3.4923,disloss:41.0049,clsloss:0.5722
+idx:220,divloss:3.2229,disloss:35.5606,clsloss:0.2825
+idx:230,divloss:3.3279,disloss:35.1605,clsloss:0.4650
+idx:240,divloss:3.2581,disloss:50.0966,clsloss:0.4535
+idx:250,divloss:3.3427,disloss:40.1066,clsloss:0.5028
+idx:260,divloss:3.2709,disloss:44.5248,clsloss:0.3825
+idx:270,divloss:3.2508,disloss:40.3885,clsloss:0.4936
+idx:280,divloss:3.3778,disloss:40.0520,clsloss:0.7129
+idx:290,divloss:3.2432,disloss:36.2738,clsloss:0.3980
+idx:300,divloss:3.4561,disloss:41.1644,clsloss:0.5449
+idx:310,divloss:3.2635,disloss:39.3100,clsloss:0.6281
+idx:320,divloss:3.3289,disloss:38.8774,clsloss:0.3201
+idx:330,divloss:3.5042,disloss:49.0819,clsloss:0.4030
+idx:340,divloss:3.3537,disloss:44.1794,clsloss:0.5178
+idx:350,divloss:3.2551,disloss:41.6645,clsloss:0.3819
+idx:360,divloss:3.3079,disloss:29.4323,clsloss:0.5524
+idx:370,divloss:3.3333,disloss:37.2510,clsloss:0.3527
+idx:380,divloss:3.3289,disloss:32.3775,clsloss:0.4283
+idx:390,divloss:3.2451,disloss:30.9355,clsloss:0.5817
+idx:400,divloss:3.4085,disloss:49.2733,clsloss:0.7244
+idx:410,divloss:3.3616,disloss:52.1371,clsloss:0.4404
+idx:420,divloss:3.3657,disloss:58.3014,clsloss:0.6077
+idx:430,divloss:3.2954,disloss:33.8059,clsloss:0.5141
+idx:440,divloss:3.3356,disloss:41.7645,clsloss:0.6716
+idx:450,divloss:3.3180,disloss:41.8592,clsloss:0.7032
+idx:460,divloss:3.2829,disloss:46.4171,clsloss:0.5113
+idx:470,divloss:3.3459,disloss:35.2486,clsloss:0.5664
+idx:480,divloss:3.1941,disloss:36.0127,clsloss:0.4875
+idx:490,divloss:3.2286,disloss:34.3993,clsloss:0.6055
+idx:500,divloss:3.3480,disloss:33.4531,clsloss:0.5753
+idx:510,divloss:3.3358,disloss:36.0804,clsloss:0.5784
+idx:520,divloss:3.4386,disloss:37.2845,clsloss:0.6448
+idx:530,divloss:3.3290,disloss:45.0102,clsloss:0.5464
+idx:540,divloss:3.3875,disloss:38.9636,clsloss:0.5032
+idx:550,divloss:3.4021,disloss:45.6097,clsloss:0.5882
+idx:560,divloss:3.2736,disloss:36.6458,clsloss:0.6388
+idx:570,divloss:3.3926,disloss:42.7166,clsloss:0.4065
+idx:580,divloss:3.3488,disloss:38.1505,clsloss:0.5353
+train,train_loss:108.35792665643207,train_accuracy:0.9955461293743372
+epoch:23
+idx:0,divloss:3.2328,disloss:30.2569,clsloss:0.2464
+idx:10,divloss:3.2688,disloss:43.7493,clsloss:0.6453
+idx:20,divloss:3.3219,disloss:38.6374,clsloss:0.5727
+idx:30,divloss:3.3718,disloss:43.5819,clsloss:0.7137
+idx:40,divloss:3.3204,disloss:41.0743,clsloss:0.1719
+idx:50,divloss:3.2722,disloss:40.8460,clsloss:0.3791
+idx:60,divloss:3.1862,disloss:40.1621,clsloss:0.6514
+idx:70,divloss:3.2614,disloss:45.7297,clsloss:0.5390
+idx:80,divloss:3.4191,disloss:38.5957,clsloss:0.3144
+idx:90,divloss:3.3336,disloss:40.3397,clsloss:0.3013
+idx:100,divloss:3.2937,disloss:32.8777,clsloss:0.5968
+idx:110,divloss:3.2951,disloss:37.3519,clsloss:0.3745
+idx:120,divloss:3.3194,disloss:38.6718,clsloss:0.4663
+idx:130,divloss:3.2435,disloss:39.9412,clsloss:0.4493
+idx:140,divloss:3.3860,disloss:49.4067,clsloss:0.3599
+idx:150,divloss:3.3849,disloss:41.5571,clsloss:0.5934
+idx:160,divloss:3.2397,disloss:32.3621,clsloss:0.3534
+idx:170,divloss:3.4057,disloss:34.5043,clsloss:0.9730
+idx:180,divloss:3.2943,disloss:42.3081,clsloss:0.8283
+idx:190,divloss:3.1983,disloss:37.5200,clsloss:0.4506
+idx:200,divloss:3.3362,disloss:38.6053,clsloss:0.6029
+idx:210,divloss:3.3054,disloss:40.5275,clsloss:0.5240
+idx:220,divloss:3.2922,disloss:43.4164,clsloss:0.5115
+idx:230,divloss:3.3199,disloss:37.1720,clsloss:0.6174
+idx:240,divloss:3.3587,disloss:41.8438,clsloss:0.4140
+idx:250,divloss:3.4475,disloss:43.8559,clsloss:0.4851
+idx:260,divloss:3.3030,disloss:38.6379,clsloss:0.6137
+idx:270,divloss:3.3804,disloss:32.9606,clsloss:0.5017
+idx:280,divloss:3.3902,disloss:43.4769,clsloss:0.5095
+idx:290,divloss:3.4203,disloss:47.6183,clsloss:0.8411
+idx:300,divloss:3.2647,disloss:33.1404,clsloss:0.6258
+idx:310,divloss:3.3659,disloss:44.0494,clsloss:0.4669
+idx:320,divloss:3.3306,disloss:37.3730,clsloss:0.4807
+idx:330,divloss:3.2598,disloss:48.5521,clsloss:1.0355
+idx:340,divloss:3.2985,disloss:39.5834,clsloss:0.5127
+idx:350,divloss:3.3165,disloss:43.7747,clsloss:0.5900
+idx:360,divloss:3.2026,disloss:35.5809,clsloss:0.5157
+idx:370,divloss:3.3070,disloss:48.4588,clsloss:0.3871
+idx:380,divloss:3.3180,disloss:41.3202,clsloss:0.6351
+idx:390,divloss:3.2410,disloss:30.1871,clsloss:0.3337
+idx:400,divloss:3.2548,disloss:42.8859,clsloss:0.7667
+idx:410,divloss:3.3223,disloss:44.0464,clsloss:0.5101
+idx:420,divloss:3.3088,disloss:40.5911,clsloss:0.7253
+idx:430,divloss:3.2969,disloss:41.7833,clsloss:0.5485
+idx:440,divloss:3.3506,disloss:42.6663,clsloss:0.7732
+idx:450,divloss:3.3354,disloss:42.2605,clsloss:0.5335
+idx:460,divloss:3.2869,disloss:50.0937,clsloss:0.5359
+idx:470,divloss:3.4107,disloss:37.4485,clsloss:0.5563
+idx:480,divloss:3.3045,disloss:41.8552,clsloss:0.3932
+idx:490,divloss:3.3381,disloss:38.0101,clsloss:0.3452
+idx:500,divloss:3.2629,disloss:35.9423,clsloss:1.0571
+idx:510,divloss:3.2932,disloss:42.5556,clsloss:0.4774
+idx:520,divloss:3.3783,disloss:43.8360,clsloss:0.5839
+idx:530,divloss:3.3580,disloss:38.7657,clsloss:0.5547
+idx:540,divloss:3.3626,disloss:47.1723,clsloss:0.4877
+idx:550,divloss:3.2837,disloss:49.3961,clsloss:0.5517
+idx:560,divloss:3.2545,disloss:36.6458,clsloss:0.5868
+idx:570,divloss:3.2806,disloss:34.7357,clsloss:0.4118
+idx:580,divloss:3.3432,disloss:42.4080,clsloss:0.5065
+train,train_loss:107.75755188505528,train_accuracy:0.9953340402969247
+epoch:24
+idx:0,divloss:3.3005,disloss:34.6757,clsloss:0.7318
+idx:10,divloss:3.2629,disloss:36.2091,clsloss:0.4631
+idx:20,divloss:3.2856,disloss:42.4347,clsloss:0.2905
+idx:30,divloss:3.3833,disloss:39.8390,clsloss:0.4378
+idx:40,divloss:3.3419,disloss:37.9442,clsloss:0.4158
+idx:50,divloss:3.3594,disloss:37.3742,clsloss:0.5364
+idx:60,divloss:3.2376,disloss:29.9831,clsloss:0.3081
+idx:70,divloss:3.2939,disloss:43.7530,clsloss:0.5853
+idx:80,divloss:3.2819,disloss:46.4718,clsloss:0.3441
+idx:90,divloss:3.2879,disloss:34.3406,clsloss:0.3567
+idx:100,divloss:3.2324,disloss:44.4159,clsloss:1.0468
+idx:110,divloss:3.3103,disloss:51.2509,clsloss:0.6299
+idx:120,divloss:3.3553,disloss:44.4746,clsloss:0.5246
+idx:130,divloss:3.1877,disloss:38.1591,clsloss:0.4963
+idx:140,divloss:3.3381,disloss:41.6358,clsloss:0.6139
+idx:150,divloss:3.4602,disloss:55.3677,clsloss:0.7867
+idx:160,divloss:3.3352,disloss:47.3626,clsloss:0.7143
+idx:170,divloss:3.3010,disloss:34.6808,clsloss:0.3555
+idx:180,divloss:3.1937,disloss:28.2121,clsloss:0.3302
+idx:190,divloss:3.3718,disloss:44.0160,clsloss:0.3637
+idx:200,divloss:3.3762,disloss:37.1383,clsloss:0.5268
+idx:210,divloss:3.3189,disloss:41.2304,clsloss:0.4015
+idx:220,divloss:3.3753,disloss:36.9971,clsloss:0.5521
+idx:230,divloss:3.2043,disloss:34.8059,clsloss:0.4625
+idx:240,divloss:3.3202,disloss:49.5627,clsloss:0.6844
+idx:250,divloss:3.3156,disloss:38.2596,clsloss:0.4808
+idx:260,divloss:3.4065,disloss:37.9844,clsloss:0.3533
+idx:270,divloss:3.3928,disloss:39.5094,clsloss:0.5265
+idx:280,divloss:3.2735,disloss:42.7670,clsloss:0.5768
+idx:290,divloss:3.3540,disloss:41.5476,clsloss:0.5972
+idx:300,divloss:3.4221,disloss:43.6369,clsloss:0.3187
+idx:310,divloss:3.3283,disloss:36.7645,clsloss:0.6095
+idx:320,divloss:3.3596,disloss:38.1049,clsloss:0.2851
+idx:330,divloss:3.3586,disloss:41.7276,clsloss:0.4239
+idx:340,divloss:3.2988,disloss:43.7202,clsloss:0.5284
+idx:350,divloss:3.3672,disloss:46.8264,clsloss:0.2798
+idx:360,divloss:3.4134,disloss:37.0763,clsloss:0.3228
+idx:370,divloss:3.2579,disloss:40.9466,clsloss:0.5752
+idx:380,divloss:3.2888,disloss:43.8751,clsloss:0.6630
+idx:390,divloss:3.4207,disloss:42.3074,clsloss:0.4009
+idx:400,divloss:3.3719,disloss:45.4447,clsloss:0.3780
+idx:410,divloss:3.3384,disloss:35.2221,clsloss:0.2268
+idx:420,divloss:3.3236,disloss:46.3542,clsloss:0.4322
+idx:430,divloss:3.3226,disloss:42.8263,clsloss:0.5974
+idx:440,divloss:3.3508,disloss:46.9528,clsloss:0.4839
+idx:450,divloss:3.3033,disloss:29.8375,clsloss:0.3319
+idx:460,divloss:3.3089,disloss:47.3024,clsloss:0.5373
+idx:470,divloss:3.2557,disloss:33.9338,clsloss:0.5138
+idx:480,divloss:3.2932,disloss:40.4188,clsloss:0.2450
+idx:490,divloss:3.2610,disloss:37.7030,clsloss:0.4562
+idx:500,divloss:3.2690,disloss:37.8914,clsloss:0.3287
+idx:510,divloss:3.3925,disloss:36.1452,clsloss:0.3786
+idx:520,divloss:3.2697,disloss:40.9493,clsloss:0.3158
+idx:530,divloss:3.2639,disloss:40.7711,clsloss:0.5637
+idx:540,divloss:3.2310,disloss:33.8381,clsloss:0.3265
+idx:550,divloss:3.3048,disloss:33.9527,clsloss:0.8179
+idx:560,divloss:3.3145,disloss:38.2499,clsloss:0.3687
+idx:570,divloss:3.2406,disloss:37.1721,clsloss:0.9001
+idx:580,divloss:3.2665,disloss:34.0990,clsloss:0.5303
+train,train_loss:107.12699948327015,train_accuracy:0.9972428419936373
+epoch:25
+idx:0,divloss:3.2330,disloss:33.7296,clsloss:0.4722
+idx:10,divloss:3.2395,disloss:37.2722,clsloss:0.5859
+idx:20,divloss:3.2642,disloss:56.4221,clsloss:0.8353
+idx:30,divloss:3.3993,disloss:39.7715,clsloss:0.4512
+idx:40,divloss:3.3395,disloss:41.3991,clsloss:0.2720
+idx:50,divloss:3.2889,disloss:33.6792,clsloss:0.2993
+idx:60,divloss:3.4793,disloss:51.7686,clsloss:0.5962
+idx:70,divloss:3.4076,disloss:29.6332,clsloss:0.7270
+idx:80,divloss:3.2959,disloss:37.4761,clsloss:0.4007
+idx:90,divloss:3.1683,disloss:36.7474,clsloss:0.3848
+idx:100,divloss:3.3831,disloss:38.1395,clsloss:0.3183
+idx:110,divloss:3.2337,disloss:34.2153,clsloss:0.4125
+idx:120,divloss:3.3398,disloss:52.7940,clsloss:0.7423
+idx:130,divloss:3.2858,disloss:45.5996,clsloss:0.3821
+idx:140,divloss:3.3709,disloss:38.3866,clsloss:0.3780
+idx:150,divloss:3.2753,disloss:39.3083,clsloss:0.7133
+idx:160,divloss:3.2757,disloss:45.0524,clsloss:0.5989
+idx:170,divloss:3.2966,disloss:43.4778,clsloss:0.5311
+idx:180,divloss:3.2110,disloss:39.7975,clsloss:0.5866
+idx:190,divloss:3.3960,disloss:38.7882,clsloss:0.5941
+idx:200,divloss:3.3397,disloss:53.8912,clsloss:0.5784
+idx:210,divloss:3.3301,disloss:41.1322,clsloss:0.3729
+idx:220,divloss:3.3027,disloss:46.3514,clsloss:0.5380
+idx:230,divloss:3.2066,disloss:39.3140,clsloss:0.4423
+idx:240,divloss:3.3722,disloss:39.0939,clsloss:0.4642
+idx:250,divloss:3.2803,disloss:39.0640,clsloss:0.6991
+idx:260,divloss:3.4878,disloss:31.4630,clsloss:0.6367
+idx:270,divloss:3.2125,disloss:41.9017,clsloss:0.5805
+idx:280,divloss:3.2601,disloss:34.7776,clsloss:0.6528
+idx:290,divloss:3.2528,disloss:36.2496,clsloss:0.3783
+idx:300,divloss:3.3940,disloss:46.2820,clsloss:0.5482
+idx:310,divloss:3.4412,disloss:40.7882,clsloss:0.3549
+idx:320,divloss:3.2649,disloss:44.5183,clsloss:0.4996
+idx:330,divloss:3.3368,disloss:45.4985,clsloss:0.5008
+idx:340,divloss:3.2694,disloss:35.2964,clsloss:0.4768
+idx:350,divloss:3.2247,disloss:34.1344,clsloss:0.6257
+idx:360,divloss:3.2163,disloss:41.4652,clsloss:0.4423
+idx:370,divloss:3.2323,disloss:40.3353,clsloss:0.6414
+idx:380,divloss:3.4266,disloss:40.4690,clsloss:0.3884
+idx:390,divloss:3.2094,disloss:45.4806,clsloss:0.5861
+idx:400,divloss:3.3106,disloss:38.6592,clsloss:0.6858
+idx:410,divloss:3.3061,disloss:34.6413,clsloss:0.4320
+idx:420,divloss:3.2133,disloss:41.4285,clsloss:0.5147
+idx:430,divloss:3.3127,disloss:32.6630,clsloss:0.3714
+idx:440,divloss:3.3146,disloss:38.5571,clsloss:0.2831
+idx:450,divloss:3.3608,disloss:38.1527,clsloss:0.3546
+idx:460,divloss:3.3367,disloss:39.7899,clsloss:0.4884
+idx:470,divloss:3.4106,disloss:42.4390,clsloss:0.7852
+idx:480,divloss:3.3252,disloss:43.5999,clsloss:0.5350
+idx:490,divloss:3.4242,disloss:46.6030,clsloss:0.6933
+idx:500,divloss:3.3827,disloss:38.7556,clsloss:0.4296
+idx:510,divloss:3.2688,disloss:41.9609,clsloss:0.5416
+idx:520,divloss:3.3900,disloss:33.3240,clsloss:0.4266
+idx:530,divloss:3.3159,disloss:41.2421,clsloss:0.3220
+idx:540,divloss:3.3875,disloss:36.6278,clsloss:0.3478
+idx:550,divloss:3.5017,disloss:44.2743,clsloss:0.7110
+idx:560,divloss:3.3566,disloss:42.5506,clsloss:0.6572
+idx:570,divloss:3.2365,disloss:37.4003,clsloss:0.4590
+idx:580,divloss:3.3686,disloss:34.8339,clsloss:0.3883
+train,train_loss:106.92226246979277,train_accuracy:0.996288441145281
+idx:0,divloss:3.3535,disloss:39.7312,clsloss:2.4879
+idx:10,divloss:3.3100,disloss:45.6287,clsloss:1.7702
+idx:20,divloss:3.3012,disloss:37.2672,clsloss:1.2314
+idx:30,divloss:3.3315,disloss:38.9752,clsloss:2.7057
+idx:40,divloss:3.3343,disloss:35.6426,clsloss:1.8580
+idx:50,divloss:3.3014,disloss:49.7341,clsloss:1.1655
+idx:60,divloss:3.2977,disloss:36.3422,clsloss:0.7463
+idx:70,divloss:3.3569,disloss:39.3719,clsloss:2.1891
+idx:80,divloss:3.3264,disloss:40.2857,clsloss:0.4871
+idx:90,divloss:3.3089,disloss:40.0621,clsloss:0.7765
+idx:100,divloss:3.3838,disloss:36.0538,clsloss:0.9657
+idx:110,divloss:3.3503,disloss:46.5331,clsloss:1.1138
+idx:120,divloss:3.3436,disloss:45.8480,clsloss:1.0102
+idx:130,divloss:3.3286,disloss:38.4971,clsloss:1.0840
+idx:140,divloss:3.2865,disloss:36.0067,clsloss:1.9949
+val,val_loss:426.2441544403901,val_accuracy:0.7493638676844784
+epoch:26
+idx:0,divloss:3.3624,disloss:39.4234,clsloss:0.3446
+idx:10,divloss:3.3023,disloss:45.5098,clsloss:0.4415
+idx:20,divloss:3.3750,disloss:48.4904,clsloss:0.4084
+idx:30,divloss:3.2793,disloss:35.1012,clsloss:0.6077
+idx:40,divloss:3.3209,disloss:47.2992,clsloss:0.5939
+idx:50,divloss:3.3677,disloss:35.3776,clsloss:0.3600
+idx:60,divloss:3.3791,disloss:38.3656,clsloss:0.5596
+idx:70,divloss:3.3269,disloss:46.0024,clsloss:0.5555
+idx:80,divloss:3.2391,disloss:37.6694,clsloss:0.5596
+idx:90,divloss:3.3638,disloss:30.5907,clsloss:0.7605
+idx:100,divloss:3.4369,disloss:37.7424,clsloss:0.3383
+idx:110,divloss:3.2723,disloss:34.8609,clsloss:0.5558
+idx:120,divloss:3.3290,disloss:33.4090,clsloss:0.6249
+idx:130,divloss:3.4121,disloss:40.2591,clsloss:0.5402
+idx:140,divloss:3.3351,disloss:37.8463,clsloss:0.6774
+idx:150,divloss:3.3896,disloss:39.3847,clsloss:0.6768
+idx:160,divloss:3.3871,disloss:38.4434,clsloss:0.5248
+idx:170,divloss:3.4845,disloss:38.1562,clsloss:0.2923
+idx:180,divloss:3.4620,disloss:34.0177,clsloss:0.3459
+idx:190,divloss:3.3058,disloss:36.5154,clsloss:0.3585
+idx:200,divloss:3.4220,disloss:42.4359,clsloss:0.2439
+idx:210,divloss:3.4659,disloss:35.5107,clsloss:0.6776
+idx:220,divloss:3.3096,disloss:37.3014,clsloss:0.4957
+idx:230,divloss:3.4040,disloss:41.2068,clsloss:0.5639
+idx:240,divloss:3.3653,disloss:36.5777,clsloss:0.3236
+idx:250,divloss:3.4165,disloss:36.0649,clsloss:0.6074
+idx:260,divloss:3.3996,disloss:40.9043,clsloss:0.2680
+idx:270,divloss:3.2862,disloss:37.8292,clsloss:0.4439
+idx:280,divloss:3.3734,disloss:36.6158,clsloss:0.3752
+idx:290,divloss:3.4750,disloss:39.2413,clsloss:0.4115
+idx:300,divloss:3.3467,disloss:38.3786,clsloss:0.5190
+idx:310,divloss:3.3700,disloss:43.7796,clsloss:0.3031
+idx:320,divloss:3.2632,disloss:42.1905,clsloss:0.4441
+idx:330,divloss:3.3102,disloss:41.7446,clsloss:0.5825
+idx:340,divloss:3.2472,disloss:38.1583,clsloss:0.5412
+idx:350,divloss:3.2745,disloss:37.4830,clsloss:0.4495
+idx:360,divloss:3.4654,disloss:51.1402,clsloss:0.4964
+idx:370,divloss:3.2896,disloss:38.4569,clsloss:0.4805
+idx:380,divloss:3.3842,disloss:35.3675,clsloss:0.2578
+idx:390,divloss:3.3549,disloss:38.7200,clsloss:0.4773
+idx:400,divloss:3.3865,disloss:35.8745,clsloss:0.3303
+idx:410,divloss:3.2364,disloss:33.2198,clsloss:0.1863
+idx:420,divloss:3.2727,disloss:34.7426,clsloss:0.4954
+idx:430,divloss:3.3454,disloss:36.1577,clsloss:0.4284
+idx:440,divloss:3.3211,disloss:37.5581,clsloss:0.4756
+idx:450,divloss:3.2650,disloss:33.0240,clsloss:0.6491
+idx:460,divloss:3.3122,disloss:34.7592,clsloss:0.3449
+idx:470,divloss:3.4579,disloss:39.4957,clsloss:0.3752
+idx:480,divloss:3.3075,disloss:40.4505,clsloss:0.6205
+idx:490,divloss:3.2883,disloss:37.5869,clsloss:0.5370
+idx:500,divloss:3.2708,disloss:37.7218,clsloss:0.8664
+idx:510,divloss:3.4242,disloss:40.8715,clsloss:0.4708
+idx:520,divloss:3.2894,disloss:35.6009,clsloss:1.1341
+idx:530,divloss:3.2615,disloss:40.6324,clsloss:0.7902
+idx:540,divloss:3.3072,disloss:47.1689,clsloss:0.6306
+idx:550,divloss:3.2448,disloss:35.1460,clsloss:0.5473
+idx:560,divloss:3.4065,disloss:43.8175,clsloss:0.4294
+idx:570,divloss:3.3937,disloss:47.7998,clsloss:0.4133
+idx:580,divloss:3.4243,disloss:37.2700,clsloss:0.5361
+train,train_loss:107.24625912682485,train_accuracy:0.9936373276776246
+epoch:27
+idx:0,divloss:3.4087,disloss:37.8992,clsloss:0.3627
+idx:10,divloss:3.3691,disloss:38.4086,clsloss:0.3272
+idx:20,divloss:3.2189,disloss:28.7490,clsloss:0.4804
+idx:30,divloss:3.4891,disloss:37.2869,clsloss:0.2454
+idx:40,divloss:3.4353,disloss:31.8923,clsloss:0.2177
+idx:50,divloss:3.2390,disloss:31.7912,clsloss:0.2108
+idx:60,divloss:3.3025,disloss:29.5617,clsloss:0.5753
+idx:70,divloss:3.2328,disloss:38.5150,clsloss:0.3652
+idx:80,divloss:3.3000,disloss:39.8819,clsloss:0.2881
+idx:90,divloss:3.2637,disloss:37.9417,clsloss:0.3759
+idx:100,divloss:3.2628,disloss:39.6198,clsloss:0.3670
+idx:110,divloss:3.2983,disloss:29.3143,clsloss:0.7236
+idx:120,divloss:3.2627,disloss:36.0270,clsloss:0.4502
+idx:130,divloss:3.4357,disloss:40.1955,clsloss:0.2161
+idx:140,divloss:3.3532,disloss:43.9243,clsloss:0.4443
+idx:150,divloss:3.2483,disloss:31.5062,clsloss:0.3886
+idx:160,divloss:3.3162,disloss:35.8377,clsloss:0.3728
+idx:170,divloss:3.3048,disloss:33.9054,clsloss:0.5876
+idx:180,divloss:3.3246,disloss:39.6273,clsloss:0.2867
+idx:190,divloss:3.3690,disloss:33.2829,clsloss:0.3247
+idx:200,divloss:3.4230,disloss:39.0789,clsloss:0.4942
+idx:210,divloss:3.3096,disloss:37.0870,clsloss:0.3222
+idx:220,divloss:3.3603,disloss:39.2878,clsloss:0.3150
+idx:230,divloss:3.3332,disloss:38.5144,clsloss:0.2788
+idx:240,divloss:3.3409,disloss:39.7139,clsloss:0.6717
+idx:250,divloss:3.3419,disloss:36.3236,clsloss:0.3054
+idx:260,divloss:3.2943,disloss:29.0623,clsloss:0.6863
+idx:270,divloss:3.3941,disloss:50.0631,clsloss:1.1209
+idx:280,divloss:3.2936,disloss:46.1747,clsloss:0.4976
+idx:290,divloss:3.2762,disloss:37.5242,clsloss:0.2162
+idx:300,divloss:3.3156,disloss:41.8322,clsloss:0.4766
+idx:310,divloss:3.2444,disloss:33.5992,clsloss:0.3632
+idx:320,divloss:3.2345,disloss:40.0150,clsloss:0.5295
+idx:330,divloss:3.2405,disloss:39.7863,clsloss:0.5396
+idx:340,divloss:3.3248,disloss:30.9801,clsloss:0.4563
+idx:350,divloss:3.3874,disloss:36.6877,clsloss:0.3307
+idx:360,divloss:3.2788,disloss:34.4728,clsloss:0.4335
+idx:370,divloss:3.2247,disloss:33.6876,clsloss:0.5268
+idx:380,divloss:3.3050,disloss:39.9138,clsloss:0.3285
+idx:390,divloss:3.3619,disloss:38.6850,clsloss:0.5498
+idx:400,divloss:3.3674,disloss:37.0822,clsloss:0.4304
+idx:410,divloss:3.3504,disloss:41.2758,clsloss:0.3953
+idx:420,divloss:3.4394,disloss:39.0252,clsloss:0.6993
+idx:430,divloss:3.2768,disloss:30.8896,clsloss:0.2941
+idx:440,divloss:3.3137,disloss:38.8980,clsloss:0.5457
+idx:450,divloss:3.3248,disloss:36.3136,clsloss:0.4864
+idx:460,divloss:3.2595,disloss:39.5741,clsloss:0.6796
+idx:470,divloss:3.5458,disloss:34.3054,clsloss:0.5936
+idx:480,divloss:3.3307,disloss:39.2117,clsloss:0.2943
+idx:490,divloss:3.3278,disloss:34.8783,clsloss:0.9643
+idx:500,divloss:3.3815,disloss:41.2010,clsloss:0.4203
+idx:510,divloss:3.3299,disloss:37.2191,clsloss:0.5864
+idx:520,divloss:3.2319,disloss:31.4209,clsloss:0.5738
+idx:530,divloss:3.2914,disloss:40.3323,clsloss:0.4558
+idx:540,divloss:3.2997,disloss:37.3207,clsloss:0.7402
+idx:550,divloss:3.3528,disloss:45.7774,clsloss:0.1997
+idx:560,divloss:3.3837,disloss:37.3710,clsloss:0.3844
+idx:570,divloss:3.2703,disloss:32.7057,clsloss:0.3970
+idx:580,divloss:3.2860,disloss:35.6973,clsloss:0.7161
+train,train_loss:105.95764014033948,train_accuracy:0.996288441145281
+epoch:28
+idx:0,divloss:3.3810,disloss:44.6862,clsloss:0.4234
+idx:10,divloss:3.3981,disloss:36.1345,clsloss:0.2578
+idx:20,divloss:3.2576,disloss:33.3180,clsloss:0.3914
+idx:30,divloss:3.4336,disloss:33.7611,clsloss:0.3047
+idx:40,divloss:3.3354,disloss:32.8629,clsloss:0.4541
+idx:50,divloss:3.3782,disloss:37.8338,clsloss:0.5267
+idx:60,divloss:3.3169,disloss:35.1774,clsloss:0.8652
+idx:70,divloss:3.4043,disloss:36.8672,clsloss:0.3288
+idx:80,divloss:3.3103,disloss:39.6490,clsloss:0.4612
+idx:90,divloss:3.2383,disloss:33.7124,clsloss:0.3453
+idx:100,divloss:3.2232,disloss:34.6184,clsloss:0.7343
+idx:110,divloss:3.2304,disloss:30.9180,clsloss:0.4429
+idx:120,divloss:3.3360,disloss:37.7775,clsloss:0.5638
+idx:130,divloss:3.3046,disloss:44.1145,clsloss:0.5539
+idx:140,divloss:3.3861,disloss:41.4820,clsloss:0.4995
+idx:150,divloss:3.2730,disloss:35.9006,clsloss:0.2933
+idx:160,divloss:3.2649,disloss:30.3032,clsloss:0.3497
+idx:170,divloss:3.2906,disloss:47.5852,clsloss:0.5508
+idx:180,divloss:3.3636,disloss:37.3411,clsloss:0.2849
+idx:190,divloss:3.3127,disloss:38.8310,clsloss:0.4140
+idx:200,divloss:3.3009,disloss:40.8698,clsloss:0.4647
+idx:210,divloss:3.4220,disloss:44.5155,clsloss:0.5443
+idx:220,divloss:3.4163,disloss:32.6361,clsloss:0.3381
+idx:230,divloss:3.3339,disloss:36.0314,clsloss:0.4786
+idx:240,divloss:3.4055,disloss:47.7172,clsloss:0.3244
+idx:250,divloss:3.3025,disloss:35.3070,clsloss:0.5339
+idx:260,divloss:3.2312,disloss:34.0819,clsloss:0.3984
+idx:270,divloss:3.3679,disloss:34.1280,clsloss:0.3834
+idx:280,divloss:3.2753,disloss:41.4902,clsloss:0.8129
+idx:290,divloss:3.4417,disloss:38.8583,clsloss:0.4508
+idx:300,divloss:3.3933,disloss:35.2250,clsloss:0.4378
+idx:310,divloss:3.2757,disloss:45.3702,clsloss:0.2382
+idx:320,divloss:3.2865,disloss:33.6218,clsloss:0.5706
+idx:330,divloss:3.4372,disloss:38.1502,clsloss:0.3348
+idx:340,divloss:3.2842,disloss:38.9662,clsloss:0.3716
+idx:350,divloss:3.3616,disloss:39.5958,clsloss:0.2482
+idx:360,divloss:3.4020,disloss:38.5063,clsloss:0.3380
+idx:370,divloss:3.4233,disloss:43.2608,clsloss:0.5533
+idx:380,divloss:3.2680,disloss:35.2424,clsloss:0.5713
+idx:390,divloss:3.2544,disloss:38.8873,clsloss:0.8733
+idx:400,divloss:3.3076,disloss:32.5350,clsloss:0.4665
+idx:410,divloss:3.4525,disloss:33.6815,clsloss:0.2069
+idx:420,divloss:3.4571,disloss:40.7012,clsloss:0.5499
+idx:430,divloss:3.3265,disloss:32.7643,clsloss:0.4768
+idx:440,divloss:3.4633,disloss:39.2036,clsloss:0.8699
+idx:450,divloss:3.3715,disloss:41.3786,clsloss:0.6220
+idx:460,divloss:3.3898,disloss:34.7210,clsloss:0.4168
+idx:470,divloss:3.3884,disloss:36.2054,clsloss:0.4676
+idx:480,divloss:3.2073,disloss:36.7576,clsloss:0.4025
+idx:490,divloss:3.4281,disloss:39.5669,clsloss:0.4864
+idx:500,divloss:3.3324,disloss:40.8456,clsloss:0.4030
+idx:510,divloss:3.2484,disloss:34.6685,clsloss:0.4864
+idx:520,divloss:3.4514,disloss:45.2776,clsloss:0.5944
+idx:530,divloss:3.2979,disloss:35.8990,clsloss:0.4265
+idx:540,divloss:3.3456,disloss:37.7657,clsloss:0.7191
+idx:550,divloss:3.2109,disloss:40.7375,clsloss:0.3235
+idx:560,divloss:3.3575,disloss:41.3907,clsloss:0.5866
+idx:570,divloss:3.4391,disloss:34.8081,clsloss:0.4352
+idx:580,divloss:3.3370,disloss:38.0600,clsloss:0.4425
+train,train_loss:106.14384898816125,train_accuracy:0.995015906680806
+epoch:29
+idx:0,divloss:3.3425,disloss:34.9351,clsloss:0.3023
+idx:10,divloss:3.3614,disloss:38.5272,clsloss:0.3805
+idx:20,divloss:3.5072,disloss:43.4223,clsloss:0.3706
+idx:30,divloss:3.3954,disloss:34.5919,clsloss:0.4127
+idx:40,divloss:3.3242,disloss:41.8703,clsloss:0.5647
+idx:50,divloss:3.4100,disloss:48.2815,clsloss:0.6697
+idx:60,divloss:3.3215,disloss:45.7153,clsloss:0.3815
+idx:70,divloss:3.4003,disloss:38.1968,clsloss:0.2641
+idx:80,divloss:3.4655,disloss:35.3667,clsloss:0.4239
+idx:90,divloss:3.3633,disloss:36.9063,clsloss:0.4137
+idx:100,divloss:3.4438,disloss:40.2776,clsloss:0.2922
+idx:110,divloss:3.3604,disloss:39.7416,clsloss:0.3496
+idx:120,divloss:3.3817,disloss:34.9633,clsloss:0.3455
+idx:130,divloss:3.4116,disloss:39.4910,clsloss:0.2155
+idx:140,divloss:3.2700,disloss:31.4702,clsloss:0.5936
+idx:150,divloss:3.2529,disloss:44.9207,clsloss:0.5199
+idx:160,divloss:3.2943,disloss:44.1724,clsloss:0.6895
+idx:170,divloss:3.3140,disloss:42.1869,clsloss:0.3341
+idx:180,divloss:3.3963,disloss:34.9872,clsloss:0.3926
+idx:190,divloss:3.3554,disloss:42.5369,clsloss:0.6065
+idx:200,divloss:3.3545,disloss:32.4468,clsloss:0.4064
+idx:210,divloss:3.3685,disloss:34.1350,clsloss:0.3440
+idx:220,divloss:3.2648,disloss:37.9479,clsloss:0.5131
+idx:230,divloss:3.3723,disloss:40.2197,clsloss:0.3417
+idx:240,divloss:3.1781,disloss:38.0438,clsloss:0.4007
+idx:250,divloss:3.3438,disloss:36.6654,clsloss:0.5963
+idx:260,divloss:3.3426,disloss:32.3158,clsloss:0.8586
+idx:270,divloss:3.2944,disloss:38.7237,clsloss:0.5124
+idx:280,divloss:3.3299,disloss:39.3692,clsloss:0.4878
+idx:290,divloss:3.3968,disloss:41.3627,clsloss:0.3758
+idx:300,divloss:3.2863,disloss:37.2824,clsloss:0.4901
+idx:310,divloss:3.3383,disloss:38.8852,clsloss:0.3259
+idx:320,divloss:3.3618,disloss:40.8483,clsloss:0.7710
+idx:330,divloss:3.2705,disloss:35.8792,clsloss:0.5852
+idx:340,divloss:3.3574,disloss:39.3754,clsloss:0.2655
+idx:350,divloss:3.2463,disloss:28.9398,clsloss:0.3175
+idx:360,divloss:3.3498,disloss:31.3006,clsloss:0.3273
+idx:370,divloss:3.3265,disloss:43.1457,clsloss:0.1924
+idx:380,divloss:3.3921,disloss:41.1918,clsloss:0.4583
+idx:390,divloss:3.3503,disloss:43.7028,clsloss:0.4815
+idx:400,divloss:3.4267,disloss:44.8629,clsloss:0.6574
+idx:410,divloss:3.3089,disloss:36.1705,clsloss:0.2744
+idx:420,divloss:3.3967,disloss:38.1854,clsloss:0.7343
+idx:430,divloss:3.3207,disloss:44.1987,clsloss:0.3626
+idx:440,divloss:3.3799,disloss:40.2176,clsloss:0.6283
+idx:450,divloss:3.4294,disloss:39.8455,clsloss:0.4862
+idx:460,divloss:3.4107,disloss:42.8678,clsloss:0.3356
+idx:470,divloss:3.2638,disloss:34.9681,clsloss:0.3926
+idx:480,divloss:3.2726,disloss:37.8416,clsloss:0.6478
+idx:490,divloss:3.3350,disloss:34.5057,clsloss:0.2215
+idx:500,divloss:3.4416,disloss:46.6960,clsloss:0.6687
+idx:510,divloss:3.4232,disloss:40.1007,clsloss:0.8388
+idx:520,divloss:3.4614,disloss:36.7120,clsloss:0.4654
+idx:530,divloss:3.3122,disloss:29.7464,clsloss:0.1999
+idx:540,divloss:3.2780,disloss:36.9142,clsloss:0.4244
+idx:550,divloss:3.3350,disloss:36.1028,clsloss:0.4849
+idx:560,divloss:3.3503,disloss:39.2599,clsloss:0.3033
+idx:570,divloss:3.2627,disloss:35.5945,clsloss:0.8607
+idx:580,divloss:3.2999,disloss:32.7779,clsloss:0.4330
+train,train_loss:105.68535264871888,train_accuracy:0.9957582184517497
